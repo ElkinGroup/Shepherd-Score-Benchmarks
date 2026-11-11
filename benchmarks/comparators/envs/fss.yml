@@ -1,0 +1,34 @@
+# The benchmark environment: every fss mode, CPU and GPU, plus the CPU comparator subprocesses
+# (ShaEP, align-it, PheSA). Only ROSHAMBO2 needs its own env.
+#   conda env create -f benchmarks/comparators/envs/fss.yml && conda activate fss
+#   pip install -e ../fast_shepherd_score        # the library under test (sibling repo)
+#
+# CPU timing needs SVML: numba <= 0.59 + intel-cmplr-lib-rt (numba 0.59 caps numpy < 1.27) and
+# FSS_CPU_SOA=1 at run time; envcheck.py hard-fails a CPU run without them.
+name: fss
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - xtb=6.7                    # command-line binary; fss shells out to it for gfn2-xTB charges
+  - pip
+  - pip:
+      - numba==0.59.1              # last release with the SVML-patched LLVM
+      - llvmlite==0.42.0           # pinned by numba 0.59
+      - numpy==1.26.4              # numba 0.59 requires numpy < 1.27
+      - intel-cmplr-lib-rt         # provides libsvml.so
+      - rdkit==2026.3.3
+      - open3d==0.18.0             # surfaces for the surf/surf_esp modes
+      - scipy
+      - pandas
+      - matplotlib
+      # torch must be a CUDA wheel (the default PyPI wheel is CPU-only) that keeps numpy at 1.26;
+      # triton >= 3.6 is required by the fork's autotune kernels (cache_results).
+      - --extra-index-url https://download.pytorch.org/whl/cu128
+      - torch==2.11.0+cu128
+      - triton==3.6.0
+      # - -e ../fast_shepherd_score
+
+# Runtime flags the CPU benchmark expects:
+#   export FSS_CPU_SOA=1 FSS_FUSE_SURF_ESP=1 NUMBA_NUM_THREADS=1 OMP_WAIT_POLICY=passive
+# Verify the env before trusting a number:  python -m comparators.envcheck

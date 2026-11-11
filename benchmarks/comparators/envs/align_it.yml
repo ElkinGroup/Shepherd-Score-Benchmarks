@@ -1,0 +1,17 @@
+# Toolchain + OpenBabel for building and running align-it (it links libopenbabel at runtime).
+#   conda env create -f benchmarks/comparators/envs/align_it.yml
+name: align_it
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - openbabel=3.1.1        # align-it links this; also the runtime .so
+  - cmake=4.3
+  - make
+  # conda C++ toolchain; install.sh points CMAKE_CXX_COMPILER at $CONDA_PREFIX/bin/x86_64-conda-linux-gnu-c++
+  - gcc=14.3
+  - gxx=14.3
+  - gcc_linux-64=14.3
+  - gxx_linux-64=14.3
+  - binutils
+  - sysroot_linux-64

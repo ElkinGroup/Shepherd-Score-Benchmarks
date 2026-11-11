@@ -1,0 +1,28 @@
+__pycache__/
+*.py[cod]
+*.log
+*.out
+
+# Inputs and results stay outside Git
+/benchmark-storage/
+/outputs/
+/benchmarks/enrichment/sdf/
+/benchmarks/throughput/.pool_cache/
+/benchmarks/throughput/stores/
+/benchmarks/throughput/results/
+/benchmarks/throughput/logs/
+/benchmarks/throughput/*.smi
+
+# Figure outputs; fig3.svg and fig2_alt.svg are tracked layouts updated in place
+/figures/**/*.png
+/figures/SI/tables/
+/figures/SI/si_*
+/figures/SI/*/si_*.svg
+/figures/throughput/large_library_plot_sources.json
+/figures/modes/data/
+/figures/graphical_abstract/data/
+
+# Archived results unpacked by benchmarks/publication.py for the figures
+/benchmarks/publication_data/
+/benchmarks/enrichment/data/
+/benchmarks/accuracy/data/

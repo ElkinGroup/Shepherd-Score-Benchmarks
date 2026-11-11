@@ -1,0 +1,4 @@
+{
+  "_comment": "Crystal ligands whose xtal-lig.pdb carries a placeholder component code (DRG, RES, ...), so the PDB Chemical Component Dictionary cannot supply a template. A SMILES here is used only if its heavy-atom formula matches the crystal ligand and its connectivity maps onto the crystal coordinates.",
+  "MT1": "CC(=O)NCCc1c(-c2ccccc2)[nH]c2ccc(OC)cc12"
+}

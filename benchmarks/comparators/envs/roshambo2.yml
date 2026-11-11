@@ -1,0 +1,19 @@
+# ROSHAMBO2's own env (CUDA-linked; cannot share an interpreter with fss). Needs an NVIDIA GPU + driver.
+#   conda env create -f benchmarks/comparators/envs/roshambo2.yml && conda activate roshambo2
+#   pip install "roshambo2 @ git+https://github.com/molecularinformatics/roshambo2@7ff8237"
+name: roshambo2
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - rdkit=2026.03.3
+  - numpy=2.4
+  - pandas=3.0
+  - scipy=1.17
+  - matplotlib-base=3.11
+  - libboost=1.90          # roshambo2's C++/CUDA extension links boost + eigen
+  - libboost-python=1.90
+  - eigen
+  - cmake=4.3
+  - pip
+  # roshambo2 is not on PyPI: install it from git at the pinned commit (above) on a GPU machine.

@@ -1,0 +1,1909 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 1000 886">
+  <!-- Generator: Adobe Illustrator 30.8.2, SVG Export Plug-In . SVG Version: 2.1.4 Build 7)  -->
+  <defs>
+    <style>
+      .st0, .st1, .st2, .st3, .st4, .st5, .st6, .st7, .st8, .st9, .st10, .st11, .st12, .st13, .st14, .st15, .st16, .st17, .st18, .st19, .st20, .st21, .st22, .st23, .st24, .st25, .st26, .st27, .st28, .st29, .st30, .st31, .st32 {
+        stroke: #fff;
+      }
+
+      .st0, .st1, .st2, .st15, .st17, .st25, .st26 {
+        stroke-miterlimit: 7.43;
+        stroke-width: 1.11px;
+      }
+
+      .st0, .st5, .st33, .st22, .st34, .st31 {
+        fill: #007d00;
+      }
+
+      .st1, .st8, .st35, .st20, .st21, .st36 {
+        fill: #a52f2f;
+      }
+
+      .st2, .st3, .st14, .st37, .st38, .st28 {
+        fill: #5554ae;
+      }
+
+      .st39, .st40, .st41, .st42, .st43, .st44, .st45, .st46, .st47, .st48, .st49, .st50, .st51, .st52, .st53, .st54, .st55, .st56, .st57, .st58, .st59, .st60, .st61, .st62, .st63, .st64, .st65, .st66, .st67, .st68, .st69, .st70, .st71, .st72, .st73, .st74, .st75 {
+        fill: none;
+      }
+
+      .st39, .st5, .st7, .st76, .st45, .st46, .st10, .st49, .st51, .st14, .st18, .st59, .st19, .st20, .st61, .st23, .st68, .st69, .st30, .st72 {
+        stroke-linejoin: round;
+      }
+
+      .st39, .st45, .st46, .st49, .st51, .st61, .st68, .st69 {
+        stroke-width: 2.16px;
+      }
+
+      .st39, .st77, .st54, .st58, .st67, .st78 {
+        stroke: #ff8b00;
+      }
+
+      .st3, .st6, .st79, .st12, .st13, .st16, .st80, .st81, .st21, .st22, .st29, .st78 {
+        stroke-miterlimit: 3.9;
+      }
+
+      .st3, .st6, .st12, .st13, .st16, .st21, .st22, .st29 {
+        stroke-width: .64px;
+      }
+
+      .st40, .st41, .st82, .st79, .st51, .st65 {
+        stroke: #a52f2f;
+      }
+
+      .st40, .st43, .st47, .st50, .st52, .st54, .st56, .st57, .st58, .st60, .st62, .st63, .st65, .st70, .st71, .st74 {
+        stroke-width: 1.6px;
+      }
+
+      .st4, .st8, .st9, .st11, .st27, .st28, .st31, .st32 {
+        stroke-miterlimit: 5.8;
+        stroke-width: .87px;
+      }
+
+      .st4, .st19, .st25, .st29 {
+        fill: #7a2b73;
+      }
+
+      .st41, .st42, .st44, .st48, .st53, .st55, .st66, .st67, .st75 {
+        stroke-width: 2.2px;
+      }
+
+      .st42, .st43, .st69, .st70 {
+        stroke: #006d72;
+      }
+
+      .st82 {
+        stroke-miterlimit: 5.53;
+      }
+
+      .st82, .st76, .st83, .st79, .st80, .st81, .st77, .st84, .st85, .st86, .st78 {
+        fill: #fff;
+      }
+
+      .st82, .st77, .st84, .st85 {
+        stroke-width: .96px;
+      }
+
+      .st44, .st47, .st49, .st81, .st62, .st85 {
+        stroke: #5554ae;
+      }
+
+      .st5, .st7, .st10, .st14, .st18, .st19, .st20, .st23, .st30 {
+        stroke-width: .65px;
+      }
+
+      .st6, .st10, .st17, .st32 {
+        fill: #1a619f;
+      }
+
+      .st7, .st9, .st87, .st88, .st12, .st26 {
+        fill: #ff8b00;
+      }
+
+      .st89, .st33, .st90, .st87, .st91, .st88, .st35, .st92, .st93, .st94, .st95, .st96, .st97, .st98, .st37, .st38, .st34, .st99, .st36 {
+        isolation: isolate;
+      }
+
+      .st89, .st33, .st87, .st88, .st35, .st92, .st37, .st38, .st34, .st99, .st36 {
+        font-family: Arial-BoldMT, Arial;
+        font-weight: 700;
+      }
+
+      .st89, .st92, .st93, .st96, .st97, .st98, .st99 {
+        fill: #222;
+      }
+
+      .st89, .st96 {
+        font-size: 17.11px;
+      }
+
+      .st33, .st88, .st37, .st36 {
+        font-size: 8.56px;
+      }
+
+      .st76 {
+        stroke-width: 1.51px;
+      }
+
+      .st76, .st59, .st72 {
+        stroke: #1b1b1b;
+      }
+
+      .st45, .st50, .st66, .st71 {
+        stroke: #d35d7f;
+      }
+
+      .st46, .st52, .st55, .st60 {
+        stroke: #7a2b73;
+      }
+
+      .st83, .st100, .st86, .st73 {
+        stroke-width: 1.2px;
+      }
+
+      .st83, .st64, .st73 {
+        stroke: #222;
+      }
+
+      .st90 {
+        font-family: Consolas, Consolas;
+      }
+
+      .st90, .st91, .st97, .st99 {
+        font-size: 14.97px;
+      }
+
+      .st90, .st91, .st23 {
+        fill: #1b1b1b;
+      }
+
+      .st79, .st80, .st81, .st78 {
+        stroke-width: 1.29px;
+      }
+
+      .st47, .st54, .st60, .st63, .st65, .st70, .st71, .st74 {
+        stroke-dasharray: 5 4;
+      }
+
+      .st87, .st35, .st38, .st34 {
+        font-size: 10.26px;
+      }
+
+      .st91, .st93, .st94, .st96, .st97, .st98 {
+        font-family: ArialMT, Arial;
+      }
+
+      .st11, .st15, .st16, .st18 {
+        fill: #006d72;
+      }
+
+      .st13, .st24, .st27, .st30 {
+        fill: #d35d7f;
+      }
+
+      .st48, .st57, .st61, .st63 {
+        stroke: #1a619f;
+      }
+
+      .st92 {
+        font-size: 23.53px;
+      }
+
+      .st53, .st80, .st56, .st84, .st68, .st74 {
+        stroke: #007d00;
+      }
+
+      .st93 {
+        font-size: 16.04px;
+      }
+
+      .st94, .st98 {
+        font-size: 12.83px;
+      }
+
+      .st77 {
+        stroke-miterlimit: 4.84;
+      }
+
+      .st100 {
+        fill: #b9bec5;
+      }
+
+      .st100, .st75 {
+        stroke: #b9bec5;
+      }
+
+      .st59 {
+        stroke-linecap: square;
+        stroke-width: 1.73px;
+      }
+
+      .st24 {
+        stroke-width: .6px;
+      }
+
+      .st84 {
+        stroke-miterlimit: 4.6;
+      }
+
+      .st85 {
+        stroke-miterlimit: 4.97;
+      }
+
+      .st86 {
+        stroke: #6b7280;
+        stroke-dasharray: 3 3;
+      }
+
+      .st72 {
+        stroke-dasharray: 4.21 2.81;
+        stroke-width: 1.4px;
+      }
+    </style>
+  </defs>
+  <path class="st64" d="M624.59,851.89h188.22" vector-effect="non-scaling-stroke"/>
+  <path class="st64" d="M354.59,851.89h188.22" vector-effect="non-scaling-stroke"/>
+  <path class="st64" d="M84.59,851.89h188.23" vector-effect="non-scaling-stroke"/>
+  <g class="st95">
+    <g class="st95">
+      <g class="st95">
+        <text class="st92" transform="translate(18 23)"><tspan x="0" y="0">A</tspan></text>
+      </g>
+    </g>
+  </g>
+  <g class="st95">
+    <g class="st95">
+      <text class="st89" transform="translate(47 23)"><tspan x="0" y="0">Library preparation</tspan></text>
+    </g>
+    <g class="st95">
+      <text class="st94" transform="translate(47 41)"><tspan x="0" y="0">(1x CPU core, AMD EPYC 9474F)</tspan></text>
+    </g>
+  </g>
+  <g class="st95">
+    <g class="st95">
+      <g class="st95">
+        <text class="st92" transform="translate(528 23)"><tspan x="0" y="0">B</tspan></text>
+      </g>
+    </g>
+  </g>
+  <g class="st95">
+    <g class="st95">
+      <text class="st89" transform="translate(557 23)"><tspan x="0" y="0">Throughput Scaling Curve for Screening</tspan></text>
+    </g>
+    <g class="st95">
+      <text class="st94" transform="translate(557 41)"><tspan x="0" y="0">(1x GPU, NVIDIA L40S)</tspan></text>
+    </g>
+  </g>
+  <g class="st95">
+    <g class="st95">
+      <g class="st95">
+        <text class="st93" transform="translate(25 242.72) rotate(-90)"><tspan x="0" y="0">conformers / min</tspan></text>
+      </g>
+    </g>
+  </g>
+  <rect id="throughput-data-10" class="st86" x="84" y="107.92" width="30" height="196.08" data-conversion-seconds="0.0" data-preparation="shared:embed" data-total-seconds="308.5472107497044"/>
+  <g class="st95">
+    <g class="st95">
+      <g id="throughput-data-11" class="st95">
+        <text class="st97" transform="translate(86.51 98.92)"><tspan x="0" y="0">972</tspan></text>
+      </g>
+    </g>
+  </g>
+  <g class="st95">
+    <g class="st95">
+      <g class="st95">
+        <text class="st97" transform="translate(44.6 376.05) rotate(-45)"><tspan x="0" y="0">ETKDGv3 +</tspan></text>
+      </g>
+    </g>
+    <g class="st95">
+      <g class="st95">
+        <text class="st97" transform="translate(57.63 380.84) rotate(-45)"><tspan x="0" y="0">MMFF94</tspan></text>
+      </g>
+    </g>
+  </g>
+  <rect id="throughput-data-14" class="st83" x="132.5" y="110.28" width="30" height="193.72" data-conversion-seconds="3.753546454012394" data-preparation="roshambo2:shape" data-total-seconds="312.3007572037168"/>
+  <g class="st95">
+    <g class="st95">
+      <g id="throughput-data-15" class="st95">
+        <text class="st97" transform="translate(135.01 101.28)"><tspan x="0" y="0">961</tspan></text>
+      </g>
+    </g>
+  </g>
+  <g>
+    <g class="st95">
+      <g class="st95">
+        <g class="st95">
+          <text class="st97" transform="translate(85.29 387.93) rotate(-45)"><tspan x="0" y="0">ROSHAMBO2</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g class="st95">
+      <g class="st95">
+        <g class="st95">
+          <text class="st98" transform="translate(134.74 358.28) rotate(-45)"><tspan x="0" y="0">shape</tspan></text>
+        </g>
+      </g>
+    </g>
+  </g>
+  <rect id="throughput-data-18" class="st83" x="181" y="124.06" width="30" height="179.94" data-conversion-seconds="27.68461043899879" data-preparation="roshambo2:shape+colour" data-total-seconds="336.2318211887032"/>
+  <g class="st95">
+    <g class="st95">
+      <g id="throughput-data-19" class="st95">
+        <text class="st97" transform="translate(183.51 115.06)"><tspan x="0" y="0">892</tspan></text>
+      </g>
+    </g>
+  </g>
+  <g>
+    <g class="st95">
+      <g class="st95">
+        <g class="st95">
+          <text class="st97" transform="translate(138.42 387.7) rotate(-45)"><tspan x="0" y="0">ROSHAMBO2</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g class="st95">
+      <g class="st95">
+        <g class="st95">
+          <text class="st98" transform="translate(193.36 352.56) rotate(-45)"><tspan x="0" y="0">color</tspan></text>
+        </g>
+      </g>
+    </g>
+  </g>
+  <rect id="throughput-data-22" class="st100" x="229.5" y="109.17" width="30" height="194.83" data-conversion-seconds="1.9792489879764616" data-preparation="fss:vol" data-total-seconds="310.52645973768085"/>
+  <g class="st95">
+    <g class="st95">
+      <g id="throughput-data-23" class="st95">
+        <text class="st97" transform="translate(232.01 100.17)"><tspan x="0" y="0">966</tspan></text>
+      </g>
+    </g>
+  </g>
+  <g class="st95">
+    <g class="st95">
+      <g class="st95">
+        <text class="st97" transform="translate(212.97 372.71) rotate(-45)"><tspan x="0" y="0">volume</tspan></text>
+      </g>
+    </g>
+  </g>
+  <circle class="st2" cx="244.5" cy="315" r="6.5"/>
+  <rect id="throughput-data-26" class="st100" x="278" y="113.38" width="30" height="190.62" data-conversion-seconds="8.832258400972933" data-preparation="fss:pharm" data-total-seconds="317.3794691506773"/>
+  <g class="st95">
+    <g class="st95">
+      <g id="throughput-data-27" class="st95">
+        <text class="st97" transform="translate(280.51 104.38)"><tspan x="0" y="0">945</tspan></text>
+      </g>
+    </g>
+  </g>
+  <g class="st95">
+    <g class="st95">
+      <g class="st95">
+        <text class="st97" transform="translate(220.97 408.53) rotate(-45)"><tspan x="0" y="0">pharmacophores</tspan></text>
+      </g>
+    </g>
+  </g>
+  <polygon class="st24" points="278 308.5 284.5 320 271.5 320 278 308.5"/>
+  <polygon class="st1" points="297.6 319.6 288.4 319.6 288.4 310.4 297.6 310.4 297.6 319.6"/>
+  <polygon class="st26" points="308 309.12 314.18 313.61 311.82 320.88 304.18 320.88 301.82 313.61 308 309.12"/>
+  <rect id="throughput-data-32" class="st100" x="326.5" y="219" width="30" height="85" data-conversion-seconds="403.24857735913247" data-preparation="fss:vol_esp" data-total-seconds="711.7957881088369"/>
+  <g class="st95">
+    <g class="st95">
+      <g id="throughput-data-33" class="st95">
+        <text class="st97" transform="translate(329.01 210)"><tspan x="0" y="0">421</tspan></text>
+      </g>
+    </g>
+  </g>
+  <g class="st95">
+    <g class="st95">
+      <g class="st95">
+        <text class="st97" transform="translate(290.44 391.6) rotate(-45)"><tspan x="0" y="0">xTB charges</tspan></text>
+      </g>
+    </g>
+  </g>
+  <polygon class="st25" points="341.5 308.5 348 315 341.5 321.5 335 315 341.5 308.5"/>
+  <rect id="throughput-data-36" class="st100" x="375" y="239.14" width="30" height="64.86" data-conversion-seconds="624.2711283378303" data-preparation="fss:surf" data-total-seconds="932.8183390875347"/>
+  <g class="st95">
+    <g class="st95">
+      <g id="throughput-data-37" class="st95">
+        <text class="st97" transform="translate(377.51 230.14)"><tspan x="0" y="0">322</tspan></text>
+      </g>
+    </g>
+  </g>
+  <g class="st95">
+    <g class="st95">
+      <g class="st95">
+        <text class="st97" transform="translate(363.33 368.79) rotate(-45)"><tspan x="0" y="0">surface</tspan></text>
+      </g>
+    </g>
+  </g>
+  <polygon class="st17" points="387.73 308.5 392.27 308.5 392.27 312.72 396.5 312.72 396.5 317.27 392.27 317.27 392.27 321.5 387.73 321.5 387.73 317.27 383.5 317.27 383.5 312.72 387.73 312.72 387.73 308.5"/>
+  <rect id="throughput-data-40" class="st100" x="423.5" y="258.7" width="30" height="45.3" data-conversion-seconds="1027.0318828392774" data-preparation="fss:surf_esp" data-total-seconds="1335.5790935889818"/>
+  <g class="st95">
+    <g class="st95">
+      <g id="throughput-data-41" class="st95">
+        <text class="st97" transform="translate(426.01 249.7)"><tspan x="0" y="0">225</tspan></text>
+      </g>
+    </g>
+  </g>
+  <g class="st95">
+    <g class="st95">
+      <g class="st95">
+        <text class="st97" transform="translate(397.96 384.3) rotate(-45)"><tspan x="0" y="0">surface +</tspan></text>
+      </g>
+    </g>
+    <g class="st95">
+      <g class="st95">
+        <text class="st97" transform="translate(405.91 396.71) rotate(-45)"><tspan x="0" y="0">xTB charges</tspan></text>
+      </g>
+    </g>
+  </g>
+  <polygon class="st15" points="431 319.88 425.37 310.13 436.63 310.13 431 319.88"/>
+  <polygon class="st0" points="452.5 315 449.25 320.63 442.75 320.63 439.5 315 442.75 309.37 449.25 309.37 452.5 315"/>
+  <path class="st64" d="M71,304h4"/>
+  <g class="st95">
+    <g class="st95">
+      <g class="st95">
+        <text class="st97" transform="translate(59.67 308)"><tspan x="0" y="0">0</tspan></text>
+      </g>
+    </g>
+  </g>
+  <path class="st64" d="M71,263.67h4"/>
+  <g class="st95">
+    <g class="st95">
+      <g class="st95">
+        <text class="st97" transform="translate(43.02 267.67)"><tspan x="0" y="0">200</tspan></text>
+      </g>
+    </g>
+  </g>
+  <path class="st64" d="M71,223.33h4"/>
+  <g class="st95">
+    <g class="st95">
+      <g class="st95">
+        <text class="st97" transform="translate(43.02 227.33)"><tspan x="0" y="0">400</tspan></text>
+      </g>
+    </g>
+  </g>
+  <path class="st64" d="M71,183h4"/>
+  <g class="st95">
+    <g class="st95">
+      <g class="st95">
+        <text class="st97" transform="translate(43.02 187)"><tspan x="0" y="0">600</tspan></text>
+      </g>
+    </g>
+  </g>
+  <path class="st64" d="M71,142.67h4"/>
+  <g class="st95">
+    <g class="st95">
+      <g class="st95">
+        <text class="st97" transform="translate(43.02 146.67)"><tspan x="0" y="0">800</tspan></text>
+      </g>
+    </g>
+  </g>
+  <path class="st64" d="M71,102.33h4"/>
+  <g class="st95">
+    <g class="st95">
+      <g class="st95">
+        <text class="st97" transform="translate(34.7 106.33)"><tspan x="0" y="0">1000</tspan></text>
+      </g>
+    </g>
+  </g>
+  <path class="st64" d="M71,62h4"/>
+  <g class="st95">
+    <g class="st95">
+      <g class="st95">
+        <text class="st97" transform="translate(34.7 66)"><tspan x="0" y="0">1200</tspan></text>
+      </g>
+    </g>
+  </g>
+  <path class="st64" d="M75,62v242"/>
+  <path class="st64" d="M75,304h390"/>
+  <g id="scaling-axes-behind-curves">
+    <path class="st73" d="M580,360v5.12" vector-effect="non-scaling-stroke"/>
+    <g class="st95">
+      <g class="st95">
+        <g class="st95">
+          <g class="st95">
+            <text class="st97" transform="translate(568.32 380.32)"><tspan x="0" y="0">10</tspan></text>
+          </g>
+        </g>
+      </g>
+      <g class="st95">
+        <g class="st95">
+          <g class="st95">
+            <text class="st98" transform="translate(585.68 372.09)"><tspan x="0" y="0">1</tspan></text>
+          </g>
+        </g>
+      </g>
+    </g>
+    <path class="st73" d="M596.56,360v2.55" vector-effect="non-scaling-stroke"/>
+    <path class="st73" d="M606.24,360v2.55" vector-effect="non-scaling-stroke"/>
+    <path class="st73" d="M613.11,360v2.55" vector-effect="non-scaling-stroke"/>
+    <path class="st73" d="M618.44,360v2.55" vector-effect="non-scaling-stroke"/>
+    <path class="st73" d="M622.8,360v2.55" vector-effect="non-scaling-stroke"/>
+    <path class="st73" d="M626.48,360v2.55" vector-effect="non-scaling-stroke"/>
+    <path class="st73" d="M629.67,360v2.55" vector-effect="non-scaling-stroke"/>
+    <path class="st73" d="M632.48,360v2.55" vector-effect="non-scaling-stroke"/>
+    <path class="st73" d="M635,360v5.12" vector-effect="non-scaling-stroke"/>
+    <g class="st95">
+      <g class="st95">
+        <g class="st95">
+          <g class="st95">
+            <text class="st97" transform="translate(623.32 380.32)"><tspan x="0" y="0">10</tspan></text>
+          </g>
+        </g>
+      </g>
+      <g class="st95">
+        <g class="st95">
+          <g class="st95">
+            <text class="st98" transform="translate(640.68 372.09)"><tspan x="0" y="0">2</tspan></text>
+          </g>
+        </g>
+      </g>
+    </g>
+    <path class="st73" d="M651.56,360v2.55" vector-effect="non-scaling-stroke"/>
+    <path class="st73" d="M661.24,360v2.55" vector-effect="non-scaling-stroke"/>
+    <path class="st73" d="M668.11,360v2.55" vector-effect="non-scaling-stroke"/>
+    <path class="st73" d="M673.44,360v2.55" vector-effect="non-scaling-stroke"/>
+    <path class="st73" d="M677.8,360v2.55" vector-effect="non-scaling-stroke"/>
+    <path class="st73" d="M681.48,360v2.55" vector-effect="non-scaling-stroke"/>
+    <path class="st73" d="M684.67,360v2.55" vector-effect="non-scaling-stroke"/>
+    <path class="st73" d="M687.48,360v2.55" vector-effect="non-scaling-stroke"/>
+    <path class="st73" d="M690,360v5.12" vector-effect="non-scaling-stroke"/>
+    <g class="st95">
+      <g class="st95">
+        <g class="st95">
+          <g class="st95">
+            <text class="st97" transform="translate(678.32 380.32)"><tspan x="0" y="0">10</tspan></text>
+          </g>
+        </g>
+      </g>
+      <g class="st95">
+        <g class="st95">
+          <g class="st95">
+            <text class="st98" transform="translate(695.68 372.09)"><tspan x="0" y="0">3</tspan></text>
+          </g>
+        </g>
+      </g>
+    </g>
+    <path class="st73" d="M706.56,360v2.55" vector-effect="non-scaling-stroke"/>
+    <path class="st73" d="M716.24,360v2.55" vector-effect="non-scaling-stroke"/>
+    <path class="st73" d="M723.11,360v2.55" vector-effect="non-scaling-stroke"/>
+    <path class="st73" d="M728.44,360v2.55" vector-effect="non-scaling-stroke"/>
+    <path class="st73" d="M732.8,360v2.55" vector-effect="non-scaling-stroke"/>
+    <path class="st73" d="M736.48,360v2.55" vector-effect="non-scaling-stroke"/>
+    <path class="st73" d="M739.67,360v2.55" vector-effect="non-scaling-stroke"/>
+    <path class="st73" d="M742.48,360v2.55" vector-effect="non-scaling-stroke"/>
+    <path class="st73" d="M745,360v5.12" vector-effect="non-scaling-stroke"/>
+    <g class="st95">
+      <g class="st95">
+        <g class="st95">
+          <g class="st95">
+            <text class="st97" transform="translate(733.32 380.32)"><tspan x="0" y="0">10</tspan></text>
+          </g>
+        </g>
+      </g>
+      <g class="st95">
+        <g class="st95">
+          <g class="st95">
+            <text class="st98" transform="translate(750.68 372.09)"><tspan x="0" y="0">4</tspan></text>
+          </g>
+        </g>
+      </g>
+    </g>
+    <path class="st73" d="M761.56,360v2.55" vector-effect="non-scaling-stroke"/>
+    <path class="st73" d="M771.24,360v2.55" vector-effect="non-scaling-stroke"/>
+    <path class="st73" d="M778.11,360v2.55" vector-effect="non-scaling-stroke"/>
+    <path class="st73" d="M783.44,360v2.55" vector-effect="non-scaling-stroke"/>
+    <path class="st73" d="M787.8,360v2.55" vector-effect="non-scaling-stroke"/>
+    <path class="st73" d="M791.48,360v2.55" vector-effect="non-scaling-stroke"/>
+    <path class="st73" d="M794.67,360v2.55" vector-effect="non-scaling-stroke"/>
+    <path class="st73" d="M797.48,360v2.55" vector-effect="non-scaling-stroke"/>
+    <path class="st73" d="M800,360v5.12" vector-effect="non-scaling-stroke"/>
+    <g class="st95">
+      <g class="st95">
+        <g class="st95">
+          <g class="st95">
+            <text class="st97" transform="translate(788.32 380.32)"><tspan x="0" y="0">10</tspan></text>
+          </g>
+        </g>
+      </g>
+      <g class="st95">
+        <g class="st95">
+          <g class="st95">
+            <text class="st98" transform="translate(805.68 372.09)"><tspan x="0" y="0">5</tspan></text>
+          </g>
+        </g>
+      </g>
+    </g>
+    <path class="st73" d="M816.56,360v2.55" vector-effect="non-scaling-stroke"/>
+    <path class="st73" d="M826.24,360v2.55" vector-effect="non-scaling-stroke"/>
+    <path class="st73" d="M833.11,360v2.55" vector-effect="non-scaling-stroke"/>
+    <path class="st73" d="M838.44,360v2.55" vector-effect="non-scaling-stroke"/>
+    <path class="st73" d="M842.8,360v2.55" vector-effect="non-scaling-stroke"/>
+    <path class="st73" d="M846.48,360v2.55" vector-effect="non-scaling-stroke"/>
+    <path class="st73" d="M849.67,360v2.55" vector-effect="non-scaling-stroke"/>
+    <path class="st73" d="M852.48,360v2.55" vector-effect="non-scaling-stroke"/>
+    <path class="st73" d="M855,360v5.12" vector-effect="non-scaling-stroke"/>
+    <g class="st95">
+      <g class="st95">
+        <g class="st95">
+          <g class="st95">
+            <text class="st97" transform="translate(843.32 380.32)"><tspan x="0" y="0">10</tspan></text>
+          </g>
+        </g>
+      </g>
+      <g class="st95">
+        <g class="st95">
+          <g class="st95">
+            <text class="st98" transform="translate(860.68 372.09)"><tspan x="0" y="0">6</tspan></text>
+          </g>
+        </g>
+      </g>
+    </g>
+    <path class="st73" d="M871.56,360v2.55" vector-effect="non-scaling-stroke"/>
+    <path class="st73" d="M881.24,360v2.55" vector-effect="non-scaling-stroke"/>
+    <path class="st73" d="M888.11,360v2.55" vector-effect="non-scaling-stroke"/>
+    <path class="st73" d="M893.44,360v2.55" vector-effect="non-scaling-stroke"/>
+    <path class="st73" d="M897.8,360v2.55" vector-effect="non-scaling-stroke"/>
+    <path class="st73" d="M901.48,360v2.55" vector-effect="non-scaling-stroke"/>
+    <path class="st73" d="M904.67,360v2.55" vector-effect="non-scaling-stroke"/>
+    <path class="st73" d="M907.48,360v2.55" vector-effect="non-scaling-stroke"/>
+    <path class="st73" d="M910,360v5.12" vector-effect="non-scaling-stroke"/>
+    <g class="st95">
+      <g class="st95">
+        <g class="st95">
+          <g class="st95">
+            <text class="st97" transform="translate(898.32 380.32)"><tspan x="0" y="0">10</tspan></text>
+          </g>
+        </g>
+      </g>
+      <g class="st95">
+        <g class="st95">
+          <g class="st95">
+            <text class="st98" transform="translate(915.68 372.09)"><tspan x="0" y="0">7</tspan></text>
+          </g>
+        </g>
+      </g>
+    </g>
+    <path class="st73" d="M926.56,360v2.55" vector-effect="non-scaling-stroke"/>
+    <path class="st73" d="M936.24,360v2.55" vector-effect="non-scaling-stroke"/>
+    <path class="st73" d="M943.11,360v2.55" vector-effect="non-scaling-stroke"/>
+    <path class="st73" d="M948.44,360v2.55" vector-effect="non-scaling-stroke"/>
+    <path class="st73" d="M952.8,360v2.55" vector-effect="non-scaling-stroke"/>
+    <path class="st73" d="M956.48,360v2.55" vector-effect="non-scaling-stroke"/>
+    <path class="st73" d="M959.67,360v2.55" vector-effect="non-scaling-stroke"/>
+    <path class="st73" d="M962.48,360v2.55" vector-effect="non-scaling-stroke"/>
+    <path class="st73" d="M965,360v5.12" vector-effect="non-scaling-stroke"/>
+    <g class="st95">
+      <g class="st95">
+        <g class="st95">
+          <g class="st95">
+            <text class="st97" transform="translate(953.32 380.32)"><tspan x="0" y="0">10</tspan></text>
+          </g>
+        </g>
+      </g>
+      <g class="st95">
+        <g class="st95">
+          <g class="st95">
+            <text class="st98" transform="translate(970.68 372.09)"><tspan x="0" y="0">8</tspan></text>
+          </g>
+        </g>
+      </g>
+    </g>
+    <path class="st73" d="M573.4,360h6.6" vector-effect="non-scaling-stroke"/>
+    <g class="st95">
+      <g class="st95">
+        <g class="st95">
+          <g class="st95">
+            <text class="st97" transform="translate(547.68 365.57)"><tspan x="0" y="0">10</tspan></text>
+          </g>
+        </g>
+      </g>
+      <g class="st95">
+        <g class="st95">
+          <g class="st95">
+            <text class="st98" transform="translate(565.03 355.67)"><tspan x="0" y="0">1</tspan></text>
+          </g>
+        </g>
+      </g>
+    </g>
+    <path class="st73" d="M576.7,343.07h3.3" vector-effect="non-scaling-stroke"/>
+    <path class="st73" d="M576.7,333.17h3.3" vector-effect="non-scaling-stroke"/>
+    <path class="st73" d="M576.7,326.15h3.3" vector-effect="non-scaling-stroke"/>
+    <path class="st73" d="M576.7,320.69h3.3" vector-effect="non-scaling-stroke"/>
+    <path class="st73" d="M576.7,316.25h3.3" vector-effect="non-scaling-stroke"/>
+    <path class="st73" d="M576.7,312.48h3.3" vector-effect="non-scaling-stroke"/>
+    <path class="st73" d="M576.7,309.22h3.3" vector-effect="non-scaling-stroke"/>
+    <path class="st73" d="M576.7,306.35h3.3" vector-effect="non-scaling-stroke"/>
+    <path class="st73" d="M573.4,303.77h6.6" vector-effect="non-scaling-stroke"/>
+    <g class="st95">
+      <g class="st95">
+        <g class="st95">
+          <g class="st95">
+            <text class="st97" transform="translate(547.68 309.36)"><tspan x="0" y="0">10</tspan></text>
+          </g>
+        </g>
+      </g>
+      <g class="st95">
+        <g class="st95">
+          <g class="st95">
+            <text class="st98" transform="translate(565.03 299.44)"><tspan x="0" y="0">2</tspan></text>
+          </g>
+        </g>
+      </g>
+    </g>
+    <path class="st73" d="M576.7,286.84h3.3" vector-effect="non-scaling-stroke"/>
+    <path class="st73" d="M576.7,276.94h3.3" vector-effect="non-scaling-stroke"/>
+    <path class="st73" d="M576.7,269.92h3.3" vector-effect="non-scaling-stroke"/>
+    <path class="st73" d="M576.7,264.47h3.3" vector-effect="non-scaling-stroke"/>
+    <path class="st73" d="M576.7,260.02h3.3" vector-effect="non-scaling-stroke"/>
+    <path class="st73" d="M576.7,256.25h3.3" vector-effect="non-scaling-stroke"/>
+    <path class="st73" d="M576.7,252.99h3.3" vector-effect="non-scaling-stroke"/>
+    <path class="st73" d="M576.7,250.12h3.3" vector-effect="non-scaling-stroke"/>
+    <path class="st73" d="M573.4,247.55h6.6" vector-effect="non-scaling-stroke"/>
+    <g class="st95">
+      <g class="st95">
+        <g class="st95">
+          <g class="st95">
+            <text class="st97" transform="translate(547.68 253.12)"><tspan x="0" y="0">10</tspan></text>
+          </g>
+        </g>
+      </g>
+      <g class="st95">
+        <g class="st95">
+          <g class="st95">
+            <text class="st98" transform="translate(565.03 243.22)"><tspan x="0" y="0">3</tspan></text>
+          </g>
+        </g>
+      </g>
+    </g>
+    <path class="st73" d="M576.7,230.62h3.3" vector-effect="non-scaling-stroke"/>
+    <path class="st73" d="M576.7,220.72h3.3" vector-effect="non-scaling-stroke"/>
+    <path class="st73" d="M576.7,213.7h3.3" vector-effect="non-scaling-stroke"/>
+    <path class="st73" d="M576.7,208.24h3.3" vector-effect="non-scaling-stroke"/>
+    <path class="st73" d="M576.7,203.8h3.3" vector-effect="non-scaling-stroke"/>
+    <path class="st73" d="M576.7,200.03h3.3" vector-effect="non-scaling-stroke"/>
+    <path class="st73" d="M576.7,196.76h3.3" vector-effect="non-scaling-stroke"/>
+    <path class="st73" d="M576.7,193.9h3.3" vector-effect="non-scaling-stroke"/>
+    <path class="st73" d="M573.4,191.32h6.6" vector-effect="non-scaling-stroke"/>
+    <g class="st95">
+      <g class="st95">
+        <g class="st95">
+          <g class="st95">
+            <text class="st97" transform="translate(547.68 196.9)"><tspan x="0" y="0">10</tspan></text>
+          </g>
+        </g>
+      </g>
+      <g class="st95">
+        <g class="st95">
+          <g class="st95">
+            <text class="st98" transform="translate(565.03 186.99)"><tspan x="0" y="0">4</tspan></text>
+          </g>
+        </g>
+      </g>
+    </g>
+    <path class="st73" d="M576.7,174.39h3.3" vector-effect="non-scaling-stroke"/>
+    <path class="st73" d="M576.7,164.49h3.3" vector-effect="non-scaling-stroke"/>
+    <path class="st73" d="M576.7,157.47h3.3" vector-effect="non-scaling-stroke"/>
+    <path class="st73" d="M576.7,152.02h3.3" vector-effect="non-scaling-stroke"/>
+    <path class="st73" d="M576.7,147.57h3.3" vector-effect="non-scaling-stroke"/>
+    <path class="st73" d="M576.7,143.8h3.3" vector-effect="non-scaling-stroke"/>
+    <path class="st73" d="M576.7,140.54h3.3" vector-effect="non-scaling-stroke"/>
+    <path class="st73" d="M576.7,137.67h3.3" vector-effect="non-scaling-stroke"/>
+    <path class="st73" d="M573.4,135.1h6.6" vector-effect="non-scaling-stroke"/>
+    <g class="st95">
+      <g class="st95">
+        <g class="st95">
+          <g class="st95">
+            <text class="st97" transform="translate(547.68 140.67)"><tspan x="0" y="0">10</tspan></text>
+          </g>
+        </g>
+      </g>
+      <g class="st95">
+        <g class="st95">
+          <g class="st95">
+            <text class="st98" transform="translate(565.03 130.76)"><tspan x="0" y="0">5</tspan></text>
+          </g>
+        </g>
+      </g>
+    </g>
+    <path class="st73" d="M576.7,118.16h3.3" vector-effect="non-scaling-stroke"/>
+    <path class="st73" d="M576.7,108.26h3.3" vector-effect="non-scaling-stroke"/>
+    <path class="st73" d="M576.7,101.24h3.3" vector-effect="non-scaling-stroke"/>
+    <path class="st73" d="M576.7,95.79h3.3" vector-effect="non-scaling-stroke"/>
+    <path class="st73" d="M576.7,91.34h3.3" vector-effect="non-scaling-stroke"/>
+    <path class="st73" d="M576.7,87.58h3.3" vector-effect="non-scaling-stroke"/>
+    <path class="st73" d="M576.7,84.31h3.3" vector-effect="non-scaling-stroke"/>
+    <path class="st73" d="M576.7,81.44h3.3" vector-effect="non-scaling-stroke"/>
+    <path class="st73" d="M573.4,78.87h6.6" vector-effect="non-scaling-stroke"/>
+    <g class="st95">
+      <g class="st95">
+        <g class="st95">
+          <g class="st95">
+            <text class="st97" transform="translate(547.68 84.44)"><tspan x="0" y="0">10</tspan></text>
+          </g>
+        </g>
+      </g>
+      <g class="st95">
+        <g class="st95">
+          <g class="st95">
+            <text class="st98" transform="translate(565.03 74.54)"><tspan x="0" y="0">6</tspan></text>
+          </g>
+        </g>
+      </g>
+    </g>
+    <path class="st64" d="M580,62v298" vector-effect="non-scaling-stroke"/>
+    <path class="st64" d="M580,360h385" vector-effect="non-scaling-stroke"/>
+  </g>
+  <polyline id="throughput-data-202" class="st62" points="580 226.63 635 173.39 690 133.09 745 102.02 800 81.31 855 78.32 910 78.04 965 78.04" vector-effect="non-scaling-stroke"/>
+  <circle id="throughput-data-203" class="st28" cx="580" cy="226.63" r="5.08" data-mode="vol" data-mode-shape="circle" data-rate="2354.726158339462" data-series="gpu" data-size="10"/>
+  <circle id="throughput-data-204" class="st28" cx="635" cy="173.39" r="5.08" data-mode="vol" data-mode-shape="circle" data-rate="20843.869618394616" data-series="gpu" data-size="100"/>
+  <circle id="throughput-data-205" class="st28" cx="690" cy="133.09" r="5.08" data-mode="vol" data-mode-shape="circle" data-rate="108536.6808002128" data-series="gpu" data-size="1000"/>
+  <circle id="throughput-data-206" class="st28" cx="745" cy="102.02" r="5.08" data-mode="vol" data-mode-shape="circle" data-rate="387584.97276407474" data-series="gpu" data-size="10000"/>
+  <circle id="throughput-data-207" class="st28" cx="800" cy="81.31" r="5.08" data-mode="vol" data-mode-shape="circle" data-rate="904715.4244938137" data-series="gpu" data-size="100000"/>
+  <circle id="throughput-data-208" class="st28" cx="855" cy="78.32" r="5.08" data-mode="vol" data-mode-shape="circle" data-rate="1022825.5804150825" data-series="gpu" data-size="1000000"/>
+  <circle id="throughput-data-209" class="st28" cx="910" cy="78.04" r="5.08" data-mode="vol" data-mode-shape="circle" data-rate="1034607.5918486763" data-series="gpu" data-size="10000000"/>
+  <circle id="throughput-data-210" class="st28" cx="965" cy="78.04" r="5.08" data-mode="vol" data-mode-shape="circle" data-rate="1034272.0760129651" data-series="gpu" data-size="100000000"/>
+  <polyline id="throughput-data-211" class="st52" points="580 232.53 635 181.81 690 137.57 745 114.97 800 103.55 855 101.65 910 103.27 965 103.65" vector-effect="non-scaling-stroke"/>
+  <polygon id="throughput-data-212" class="st4" data-mode="vol_esp" data-mode-shape="diamond" data-rate="1849.8275301569406" data-series="gpu" data-size="10" points="580 227.45 585.08 232.53 580 237.6 574.93 232.53 580 227.45"/>
+  <polygon id="throughput-data-213" class="st4" data-mode="vol_esp" data-mode-shape="diamond" data-rate="14765.544389655473" data-series="gpu" data-size="100" points="635 176.73 640.08 181.81 635 186.88 629.93 181.81 635 176.73"/>
+  <polygon id="throughput-data-214" class="st4" data-mode="vol_esp" data-mode-shape="diamond" data-rate="90378.64914728621" data-series="gpu" data-size="1000" points="690 132.49 695.08 137.57 690 142.64 684.93 137.57 690 132.49"/>
+  <polygon id="throughput-data-215" class="st4" data-mode="vol_esp" data-mode-shape="diamond" data-rate="228035.41855038452" data-series="gpu" data-size="10000" points="745 109.89 750.08 114.97 745 120.04 739.93 114.97 745 109.89"/>
+  <polygon id="throughput-data-216" class="st4" data-mode="vol_esp" data-mode-shape="diamond" data-rate="363972.1485543764" data-series="gpu" data-size="100000" points="800 98.47 805.08 103.55 800 108.62 794.93 103.55 800 98.47"/>
+  <polygon id="throughput-data-217" class="st4" data-mode="vol_esp" data-mode-shape="diamond" data-rate="393429.1267581236" data-series="gpu" data-size="1000000" points="855 96.58 860.08 101.65 855 106.73 849.93 101.65 855 96.58"/>
+  <polygon id="throughput-data-218" class="st4" data-mode="vol_esp" data-mode-shape="diamond" data-rate="368212.22150574083" data-series="gpu" data-size="10000000" points="910 98.19 915.08 103.27 910 108.34 904.93 103.27 910 98.19"/>
+  <polygon id="throughput-data-219" class="st4" data-mode="vol_esp" data-mode-shape="diamond" data-rate="362289.87810950476" data-series="gpu" data-size="100000000" points="965 98.58 970.08 103.65 965 108.73 959.93 103.65 965 98.58"/>
+  <polyline id="throughput-data-220" class="st50" points="580 240.33 635 186.52 690 144.36 745 123.16 800 116.4 855 116.24 910 117.04 965 117.37" vector-effect="non-scaling-stroke"/>
+  <polygon id="throughput-data-221" class="st27" data-mode="vol_lipo" data-mode-shape="triangle-up" data-rate="1343.1757632830306" data-series="gpu" data-size="10" points="580 235.58 584.4 243.19 575.6 243.19 580 235.58"/>
+  <polygon id="throughput-data-222" class="st27" data-mode="vol_lipo" data-mode-shape="triangle-up" data-rate="12173.403232724988" data-series="gpu" data-size="100" points="635 181.76 639.4 189.37 630.6 189.37 635 181.76"/>
+  <polygon id="throughput-data-223" class="st27" data-mode="vol_lipo" data-mode-shape="triangle-up" data-rate="68432.70973956719" data-series="gpu" data-size="1000" points="690 139.6 694.4 147.21 685.6 147.21 690 139.6"/>
+  <polygon id="throughput-data-224" class="st27" data-mode="vol_lipo" data-mode-shape="triangle-up" data-rate="162979.92007586005" data-series="gpu" data-size="10000" points="745 118.41 749.4 126.02 740.6 126.02 745 118.41"/>
+  <polygon id="throughput-data-225" class="st27" data-mode="vol_lipo" data-mode-shape="triangle-up" data-rate="215117.6191409607" data-series="gpu" data-size="100000" points="800 111.64 804.4 119.25 795.6 119.25 800 111.64"/>
+  <polygon id="throughput-data-226" class="st27" data-mode="vol_lipo" data-mode-shape="triangle-up" data-rate="216422.3028826443" data-series="gpu" data-size="1000000" points="855 111.48 859.4 119.09 850.6 119.09 855 111.48"/>
+  <polygon id="throughput-data-227" class="st27" data-mode="vol_lipo" data-mode-shape="triangle-up" data-rate="209397.45427248563" data-series="gpu" data-size="10000000" points="910 112.29 914.4 119.9 905.6 119.9 910 112.29"/>
+  <polygon id="throughput-data-228" class="st27" data-mode="vol_lipo" data-mode-shape="triangle-up" data-rate="206679.83409265763" data-series="gpu" data-size="100000000" points="965 112.6 969.4 120.22 960.6 120.22 965 112.6"/>
+  <polyline id="throughput-data-229" class="st40" points="580 239.37 635 184.94 690 140.8 745 115.86 800 105.76 855 104.56 910 104.59 965 104.7" vector-effect="non-scaling-stroke"/>
+  <polygon id="throughput-data-230" class="st8" data-mode="vol_color" data-mode-shape="square" data-rate="1397.340983337322" data-series="gpu" data-size="10" points="583.59 242.96 576.41 242.96 576.41 235.79 583.59 235.79 583.59 242.96"/>
+  <polygon id="throughput-data-231" class="st8" data-mode="vol_color" data-mode-shape="square" data-rate="12986.908600555753" data-series="gpu" data-size="100" points="638.59 188.52 631.41 188.52 631.41 181.35 638.59 181.35 638.59 188.52"/>
+  <polygon id="throughput-data-232" class="st8" data-mode="vol_color" data-mode-shape="square" data-rate="79148.58283152996" data-series="gpu" data-size="1000" points="693.59 144.39 686.41 144.39 686.41 137.21 693.59 137.21 693.59 144.39"/>
+  <polygon id="throughput-data-233" class="st8" data-mode="vol_color" data-mode-shape="square" data-rate="219788.07008086296" data-series="gpu" data-size="10000" points="748.59 119.45 741.41 119.45 741.41 112.27 748.59 112.27 748.59 119.45"/>
+  <polygon id="throughput-data-234" class="st8" data-mode="vol_color" data-mode-shape="square" data-rate="332361.2752939303" data-series="gpu" data-size="100000" points="803.59 109.35 796.41 109.35 796.41 102.18 803.59 102.18 803.59 109.35"/>
+  <polygon id="throughput-data-235" class="st8" data-mode="vol_color" data-mode-shape="square" data-rate="349114.0100931962" data-series="gpu" data-size="1000000" points="858.59 108.15 851.41 108.15 851.41 100.97 858.59 100.97 858.59 108.15"/>
+  <polygon id="throughput-data-236" class="st8" data-mode="vol_color" data-mode-shape="square" data-rate="348793.27200328145" data-series="gpu" data-size="10000000" points="913.59 108.18 906.41 108.18 906.41 101 913.59 101 913.59 108.18"/>
+  <polygon id="throughput-data-237" class="st8" data-mode="vol_color" data-mode-shape="square" data-rate="347121.23081233155" data-series="gpu" data-size="100000000" points="968.59 108.29 961.41 108.29 961.41 101.12 968.59 101.12 968.59 108.29"/>
+  <polyline id="throughput-data-238" class="st56" points="580 252.36 635 200.94 690 182.4 745 178.39 800 176.89 855 177.07 910 177.19" vector-effect="non-scaling-stroke"/>
+  <polygon id="throughput-data-239" class="st31" data-mode="vol_and_surf_esp" data-mode-shape="hexagon" data-rate="821.2672033365234" data-series="gpu" data-size="10" points="585.08 252.36 582.54 256.76 577.46 256.76 574.93 252.36 577.46 247.97 582.54 247.97 585.08 252.36"/>
+  <polygon id="throughput-data-240" class="st31" data-mode="vol_and_surf_esp" data-mode-shape="hexagon" data-rate="6742.853213514458" data-series="gpu" data-size="100" points="640.08 200.94 637.54 205.34 632.46 205.34 629.93 200.94 632.46 196.55 637.54 196.55 640.08 200.94"/>
+  <polygon id="throughput-data-241" class="st31" data-mode="vol_and_surf_esp" data-mode-shape="hexagon" data-rate="14408.554448402821" data-series="gpu" data-size="1000" points="695.08 182.4 692.54 186.8 687.46 186.8 684.93 182.4 687.46 178.01 692.54 178.01 695.08 182.4"/>
+  <polygon id="throughput-data-242" class="st31" data-mode="vol_and_surf_esp" data-mode-shape="hexagon" data-rate="16977.14894638462" data-series="gpu" data-size="10000" points="750.08 178.39 747.54 182.79 742.46 182.79 739.93 178.39 742.46 174 747.54 174 750.08 178.39"/>
+  <polygon id="throughput-data-243" class="st31" data-mode="vol_and_surf_esp" data-mode-shape="hexagon" data-rate="18049.384947290877" data-series="gpu" data-size="100000" points="805.08 176.89 802.54 181.29 797.46 181.29 794.93 176.89 797.46 172.5 802.54 172.5 805.08 176.89"/>
+  <polygon id="throughput-data-244" class="st31" data-mode="vol_and_surf_esp" data-mode-shape="hexagon" data-rate="17926.569512266946" data-series="gpu" data-size="1000000" points="860.08 177.07 857.54 181.47 852.46 181.47 849.93 177.07 852.46 172.68 857.54 172.68 860.08 177.07"/>
+  <polygon id="throughput-data-245" class="st31" data-mode="vol_and_surf_esp" data-mode-shape="hexagon" data-rate="17839.19192376833" data-series="gpu" data-size="10000000" points="915.08 177.19 912.54 181.58 907.46 181.58 904.93 177.19 907.46 172.79 912.54 172.79 915.08 177.19"/>
+  <polyline id="throughput-data-246" class="st43" points="580 249.34 635 196.87 690 167.89 745 162.27 800 162.53 855 163.05 910 164.63" vector-effect="non-scaling-stroke"/>
+  <polygon id="throughput-data-247" class="st11" data-mode="surf_esp" data-mode-shape="triangle-down" data-rate="928.9274260568138" data-series="gpu" data-size="10" points="580 254.1 575.6 246.49 584.4 246.49 580 254.1"/>
+  <polygon id="throughput-data-248" class="st11" data-mode="surf_esp" data-mode-shape="triangle-down" data-rate="7967.138588271652" data-series="gpu" data-size="100" points="635 201.63 630.6 194.02 639.4 194.02 635 201.63"/>
+  <polygon id="throughput-data-249" class="st11" data-mode="surf_esp" data-mode-shape="triangle-down" data-rate="26106.573985657968" data-series="gpu" data-size="1000" points="690 172.65 685.6 165.04 694.4 165.04 690 172.65"/>
+  <polygon id="throughput-data-250" class="st11" data-mode="surf_esp" data-mode-shape="triangle-down" data-rate="32855.26578375927" data-series="gpu" data-size="10000" points="745 167.03 740.6 159.42 749.4 159.42 745 167.03"/>
+  <polygon id="throughput-data-251" class="st11" data-mode="surf_esp" data-mode-shape="triangle-down" data-rate="32510.17026087454" data-series="gpu" data-size="100000" points="800 167.29 795.6 159.68 804.4 159.68 800 167.29"/>
+  <polygon id="throughput-data-252" class="st11" data-mode="surf_esp" data-mode-shape="triangle-down" data-rate="31816.704152517574" data-series="gpu" data-size="1000000" points="855 167.82 850.6 160.2 859.4 160.2 855 167.82"/>
+  <polygon id="throughput-data-253" class="st11" data-mode="surf_esp" data-mode-shape="triangle-down" data-rate="29837.84664465907" data-series="gpu" data-size="10000000" points="910 169.39 905.6 161.78 914.4 161.78 910 169.39"/>
+  <polyline id="throughput-data-254" class="st57" points="580 261.01 635 205.32 690 162.98 745 151.84 800 151.38 855 151.52 910 151.67" vector-effect="non-scaling-stroke"/>
+  <polygon id="throughput-data-255" class="st32" data-mode="surf" data-mode-shape="plus" data-rate="576.2467916762764" data-series="gpu" data-size="10" points="578.22 255.93 581.78 255.93 581.78 259.23 585.08 259.23 585.08 262.78 581.78 262.78 581.78 266.08 578.22 266.08 578.22 262.78 574.93 262.78 574.93 259.23 578.22 259.23 578.22 255.93"/>
+  <polygon id="throughput-data-256" class="st32" data-mode="surf" data-mode-shape="plus" data-rate="5635.555638132273" data-series="gpu" data-size="100" points="633.22 200.25 636.78 200.25 636.78 203.55 640.08 203.55 640.08 207.1 636.78 207.1 636.78 210.4 633.22 210.4 633.22 207.1 629.93 207.1 629.93 203.55 633.22 203.55 633.22 200.25"/>
+  <polygon id="throughput-data-257" class="st32" data-mode="surf" data-mode-shape="plus" data-rate="31913.48735323139" data-series="gpu" data-size="1000" points="688.22 157.9 691.78 157.9 691.78 161.2 695.08 161.2 695.08 164.76 691.78 164.76 691.78 168.05 688.22 168.05 688.22 164.76 684.93 164.76 684.93 161.2 688.22 161.2 688.22 157.9"/>
+  <polygon id="throughput-data-258" class="st32" data-mode="surf" data-mode-shape="plus" data-rate="50373.67802599527" data-series="gpu" data-size="10000" points="743.22 146.76 746.78 146.76 746.78 150.06 750.08 150.06 750.08 153.62 746.78 153.62 746.78 156.91 743.22 156.91 743.22 153.62 739.93 153.62 739.93 150.06 743.22 150.06 743.22 146.76"/>
+  <polygon id="throughput-data-259" class="st32" data-mode="surf" data-mode-shape="plus" data-rate="51326.96468812096" data-series="gpu" data-size="100000" points="798.22 146.3 801.78 146.3 801.78 149.6 805.08 149.6 805.08 153.16 801.78 153.16 801.78 156.45 798.22 156.45 798.22 153.16 794.93 153.16 794.93 149.6 798.22 149.6 798.22 146.3"/>
+  <polygon id="throughput-data-260" class="st32" data-mode="surf" data-mode-shape="plus" data-rate="51013.852282236054" data-series="gpu" data-size="1000000" points="853.22 146.46 856.78 146.46 856.78 149.76 860.08 149.76 860.08 153.31 856.78 153.31 856.78 156.61 853.22 156.61 853.22 153.31 849.93 153.31 849.93 149.76 853.22 149.76 853.22 146.46"/>
+  <polygon id="throughput-data-261" class="st32" data-mode="surf" data-mode-shape="plus" data-rate="50726.20152762606" data-series="gpu" data-size="10000000" points="908.22 146.6 911.78 146.6 911.78 149.89 915.08 149.89 915.08 153.45 911.78 153.45 911.78 156.75 908.22 156.75 908.22 153.45 904.93 153.45 904.93 149.89 908.22 149.89 908.22 146.6"/>
+  <polyline id="throughput-data-262" class="st58" points="580 252.13 635 197.33 690 160.54 745 128.69 800 122.78 855 122.29 910 122.13 965 122.17" vector-effect="non-scaling-stroke"/>
+  <polygon id="throughput-data-263" class="st9" data-mode="pharm" data-mode-shape="pentagon" data-rate="828.7488980160662" data-series="gpu" data-size="10" points="580 247.17 584.83 250.68 582.98 256.35 577.02 256.35 575.17 250.68 580 247.17"/>
+  <polygon id="throughput-data-264" class="st9" data-mode="pharm" data-mode-shape="pentagon" data-rate="7820.957696764139" data-series="gpu" data-size="100" points="635 192.37 639.83 195.88 637.98 201.55 632.02 201.55 630.17 195.88 635 192.37"/>
+  <polygon id="throughput-data-265" class="st9" data-mode="pharm" data-mode-shape="pentagon" data-rate="35279.559460663346" data-series="gpu" data-size="1000" points="690 155.58 694.83 159.09 692.98 164.76 687.02 164.76 685.17 159.09 690 155.58"/>
+  <polygon id="throughput-data-266" class="st9" data-mode="pharm" data-mode-shape="pentagon" data-rate="129975.24816655126" data-series="gpu" data-size="10000" points="745 123.73 749.83 127.24 747.98 132.91 742.02 132.91 740.17 127.24 745 123.73"/>
+  <polygon id="throughput-data-267" class="st9" data-mode="pharm" data-mode-shape="pentagon" data-rate="165546.43283053048" data-series="gpu" data-size="100000" points="800 117.82 804.83 121.33 802.98 127 797.02 127 795.17 121.33 800 117.82"/>
+  <polygon id="throughput-data-268" class="st9" data-mode="pharm" data-mode-shape="pentagon" data-rate="168916.1904544378" data-series="gpu" data-size="1000000" points="855 117.33 859.83 120.84 857.98 126.51 852.02 126.51 850.17 120.84 855 117.33"/>
+  <polygon id="throughput-data-269" class="st9" data-mode="pharm" data-mode-shape="pentagon" data-rate="170038.54580316527" data-series="gpu" data-size="10000000" points="910 117.18 914.83 120.68 912.98 126.36 907.02 126.36 905.17 120.68 910 117.18"/>
+  <polygon id="throughput-data-270" class="st9" data-mode="pharm" data-mode-shape="pentagon" data-rate="169732.79765855896" data-series="gpu" data-size="100000000" points="965 117.22 969.83 120.72 967.98 126.4 962.02 126.4 960.17 120.72 965 117.22"/>
+  <polyline id="throughput-data-271" class="st47" points="580 240.85 635 225.71 690 225.46 745 225.24 800 224.26" vector-effect="non-scaling-stroke"/>
+  <circle id="throughput-data-272" class="st28" cx="580" cy="240.85" r="5.08" data-mode="vol" data-mode-shape="circle" data-rate="1315.5012980222123" data-series="cpu" data-size="10"/>
+  <circle id="throughput-data-273" class="st28" cx="635" cy="225.71" r="5.08" data-mode="vol" data-mode-shape="circle" data-rate="2445.385665022998" data-series="cpu" data-size="100"/>
+  <circle id="throughput-data-274" class="st28" cx="690" cy="225.46" r="5.08" data-mode="vol" data-mode-shape="circle" data-rate="2470.48687374313" data-series="cpu" data-size="1000"/>
+  <circle id="throughput-data-275" class="st28" cx="745" cy="225.24" r="5.08" data-mode="vol" data-mode-shape="circle" data-rate="2491.7886193824097" data-series="cpu" data-size="10000"/>
+  <circle id="throughput-data-276" class="st28" cx="800" cy="224.26" r="5.08" data-mode="vol" data-mode-shape="circle" data-rate="2596.4085479572423" data-series="cpu" data-size="100000"/>
+  <polyline id="throughput-data-277" class="st60" points="580 262.6 635 253.8 690 251.76 745 251.62 800 251.74" vector-effect="non-scaling-stroke"/>
+  <polygon id="throughput-data-278" class="st4" data-mode="vol_esp" data-mode-shape="diamond" data-rate="539.8261362000134" data-series="cpu" data-size="10" points="580 257.53 585.08 262.6 580 267.68 574.93 262.6 580 257.53"/>
+  <polygon id="throughput-data-279" class="st4" data-mode="vol_esp" data-mode-shape="diamond" data-rate="774.212462562802" data-series="cpu" data-size="100" points="635 248.73 640.08 253.8 635 258.88 629.93 253.8 635 248.73"/>
+  <polygon id="throughput-data-280" class="st4" data-mode="vol_esp" data-mode-shape="diamond" data-rate="841.5745851296386" data-series="cpu" data-size="1000" points="690 246.69 695.08 251.76 690 256.84 684.93 251.76 690 246.69"/>
+  <polygon id="throughput-data-281" class="st4" data-mode="vol_esp" data-mode-shape="diamond" data-rate="846.5887620980441" data-series="cpu" data-size="10000" points="745 246.54 750.08 251.62 745 256.69 739.93 251.62 745 246.54"/>
+  <polygon id="throughput-data-282" class="st4" data-mode="vol_esp" data-mode-shape="diamond" data-rate="842.3064696754487" data-series="cpu" data-size="100000" points="800 246.67 805.08 251.74 800 256.82 794.93 251.74 800 246.67"/>
+  <polyline id="throughput-data-283" class="st71" points="580 272.92 635 266.66 690 266.07 745 266.7 800 266.72" vector-effect="non-scaling-stroke"/>
+  <polygon id="throughput-data-284" class="st27" data-mode="vol_lipo" data-mode-shape="triangle-up" data-rate="353.64513220113224" data-series="cpu" data-size="10" points="580 268.16 584.4 275.77 575.6 275.77 580 268.16"/>
+  <polygon id="throughput-data-285" class="st27" data-mode="vol_lipo" data-mode-shape="triangle-up" data-rate="457.16472457851955" data-series="cpu" data-size="100" points="635 261.9 639.4 269.51 630.6 269.51 635 261.9"/>
+  <polygon id="throughput-data-286" class="st27" data-mode="vol_lipo" data-mode-shape="triangle-up" data-rate="468.4369494987529" data-series="cpu" data-size="1000" points="690 261.31 694.4 268.92 685.6 268.92 690 261.31"/>
+  <polygon id="throughput-data-287" class="st27" data-mode="vol_lipo" data-mode-shape="triangle-up" data-rate="456.2828268582119" data-series="cpu" data-size="10000" points="745 261.94 749.4 269.55 740.6 269.55 745 261.94"/>
+  <polygon id="throughput-data-288" class="st27" data-mode="vol_lipo" data-mode-shape="triangle-up" data-rate="456.08800030439716" data-series="cpu" data-size="100000" points="800 261.96 804.4 269.57 795.6 269.57 800 261.96"/>
+  <polyline id="throughput-data-289" class="st65" points="580 260.82 635 252.61 690 252.6 745 253.18 800 253.01" vector-effect="non-scaling-stroke"/>
+  <polygon id="throughput-data-290" class="st8" data-mode="vol_color" data-mode-shape="square" data-rate="580.675111680425" data-series="cpu" data-size="10" points="583.59 264.41 576.41 264.41 576.41 257.23 583.59 257.23 583.59 264.41"/>
+  <polygon id="throughput-data-291" class="st8" data-mode="vol_color" data-mode-shape="square" data-rate="812.8349427802235" data-series="cpu" data-size="100" points="638.59 256.2 631.41 256.2 631.41 249.02 638.59 249.02 638.59 256.2"/>
+  <polygon id="throughput-data-292" class="st8" data-mode="vol_color" data-mode-shape="square" data-rate="813.0496628368685" data-series="cpu" data-size="1000" points="693.59 256.18 686.41 256.18 686.41 249.01 693.59 249.01 693.59 256.18"/>
+  <polygon id="throughput-data-293" class="st8" data-mode="vol_color" data-mode-shape="square" data-rate="794.2333418858078" data-series="cpu" data-size="10000" points="748.59 256.76 741.41 256.76 741.41 249.59 748.59 249.59 748.59 256.76"/>
+  <polygon id="throughput-data-294" class="st8" data-mode="vol_color" data-mode-shape="square" data-rate="799.4200000427212" data-series="cpu" data-size="100000" points="803.59 256.6 796.41 256.6 796.41 249.43 803.59 249.43 803.59 256.6"/>
+  <polyline id="throughput-data-295" class="st74" points="580 346.56 635 344.89 690 344.27" vector-effect="non-scaling-stroke"/>
+  <polygon id="throughput-data-296" class="st31" data-mode="vol_and_surf_esp" data-mode-shape="hexagon" data-rate="17.34385285687216" data-series="cpu" data-size="10" points="585.08 346.55 582.54 350.94 577.46 350.94 574.93 346.55 577.46 342.15 582.54 342.15 585.08 346.55"/>
+  <polygon id="throughput-data-297" class="st31" data-mode="vol_and_surf_esp" data-mode-shape="hexagon" data-rate="18.563067325482525" data-series="cpu" data-size="100" points="640.08 344.89 637.54 349.29 632.46 349.29 629.93 344.89 632.46 340.5 637.54 340.5 640.08 344.89"/>
+  <polygon id="throughput-data-298" class="st31" data-mode="vol_and_surf_esp" data-mode-shape="hexagon" data-rate="19.046425524699774" data-series="cpu" data-size="1000" points="695.08 344.27 692.54 348.66 687.46 348.66 684.93 344.27 687.46 339.87 692.54 339.87 695.08 344.27"/>
+  <polyline id="throughput-data-300" class="st70" points="580 338.7 635 334.62 690 334.72" vector-effect="non-scaling-stroke"/>
+  <polygon id="throughput-data-301" class="st11" data-mode="surf_esp" data-mode-shape="triangle-down" data-rate="23.917390941268486" data-series="cpu" data-size="10" points="580 343.46 575.6 335.85 584.4 335.85 580 343.46"/>
+  <polygon id="throughput-data-302" class="st11" data-mode="surf_esp" data-mode-shape="triangle-down" data-rate="28.27848345364487" data-series="cpu" data-size="100" points="635 339.37 630.6 331.76 639.4 331.76 635 339.37"/>
+  <polygon id="throughput-data-303" class="st11" data-mode="surf_esp" data-mode-shape="triangle-down" data-rate="28.160687729155068" data-series="cpu" data-size="1000" points="690 339.48 685.6 331.87 694.4 331.87 690 339.48"/>
+  <polyline id="throughput-data-304" class="st63" points="580 336.97 635 332.97 690 336.92" vector-effect="non-scaling-stroke"/>
+  <polygon id="throughput-data-305" class="st32" data-mode="surf" data-mode-shape="plus" data-rate="25.675277837435477" data-series="cpu" data-size="10" points="578.22 331.89 581.78 331.89 581.78 335.19 585.08 335.19 585.08 338.74 581.78 338.74 581.78 342.04 578.22 342.04 578.22 338.74 574.93 338.74 574.93 335.19 578.22 335.19 578.22 331.89"/>
+  <polygon id="throughput-data-306" class="st32" data-mode="surf" data-mode-shape="plus" data-rate="30.246489359516136" data-series="cpu" data-size="100" points="633.22 327.9 636.78 327.9 636.78 331.19 640.08 331.19 640.08 334.75 636.78 334.75 636.78 338.05 633.22 338.05 633.22 334.75 629.93 334.75 629.93 331.19 633.22 331.19 633.22 327.9"/>
+  <polygon id="throughput-data-307" class="st32" data-mode="surf" data-mode-shape="plus" data-rate="25.72805376477383" data-series="cpu" data-size="1000" points="688.22 331.85 691.78 331.85 691.78 335.15 695.08 335.15 695.08 338.7 691.78 338.7 691.78 342 688.22 342 688.22 338.7 684.93 338.7 684.93 335.15 688.22 335.15 688.22 331.85"/>
+  <polyline id="throughput-data-308" class="st54" points="580 275.42 635 261.68 690 261.1 745 259.66 800 259.34" vector-effect="non-scaling-stroke"/>
+  <polygon id="throughput-data-309" class="st9" data-mode="pharm" data-mode-shape="pentagon" data-rate="319.37835574769264" data-series="cpu" data-size="10" points="580 270.46 584.83 273.97 582.98 279.64 577.02 279.64 575.17 273.97 580 270.46"/>
+  <polygon id="throughput-data-310" class="st9" data-mode="pharm" data-mode-shape="pentagon" data-rate="560.5728193082724" data-series="cpu" data-size="100" points="635 256.72 639.83 260.23 637.98 265.9 632.02 265.9 630.17 260.23 635 256.72"/>
+  <polygon id="throughput-data-311" class="st9" data-mode="pharm" data-mode-shape="pentagon" data-rate="574.1342172412263" data-series="cpu" data-size="1000" points="690 256.14 694.83 259.65 692.98 265.32 687.02 265.32 685.17 259.65 690 256.14"/>
+  <polygon id="throughput-data-312" class="st9" data-mode="pharm" data-mode-shape="pentagon" data-rate="608.9780200542647" data-series="cpu" data-size="10000" points="745 254.7 749.83 258.21 747.98 263.88 742.02 263.88 740.17 258.21 745 254.7"/>
+  <polygon id="throughput-data-313" class="st9" data-mode="pharm" data-mode-shape="pentagon" data-rate="616.8121625882126" data-series="cpu" data-size="100000" points="800 254.38 804.83 257.89 802.98 263.56 797.02 263.56 795.17 257.89 800 254.38"/>
+  <g class="st95">
+    <g class="st95">
+      <g class="st95">
+        <text class="st93" transform="translate(728.44 396.3)"><tspan x="0" y="0">library size N</tspan></text>
+      </g>
+    </g>
+  </g>
+  <g class="st95">
+    <g class="st95">
+      <g class="st95">
+        <text class="st93" transform="translate(536.12 283.31) rotate(-90)"><tspan x="0" y="0">alignments / second</tspan></text>
+      </g>
+    </g>
+  </g>
+  <g class="st95">
+    <g class="st95">
+      <g class="st95">
+        <text class="st92" transform="translate(17.59 497.49)"><tspan x="0" y="0">C</tspan></text>
+      </g>
+    </g>
+  </g>
+  <g class="st95">
+    <g class="st95">
+      <g class="st95">
+        <text class="st89" transform="translate(46.59 497.74)"><tspan x="0" y="0">Comparisons with open-source packages</tspan></text>
+      </g>
+    </g>
+  </g>
+  <path id="throughput-data-318-baseline" class="st75" d="M96.86,849.29v2.6" vector-effect="non-scaling-stroke"/>
+  <path id="throughput-data-318" class="st44" d="M96.86,567.1v282.19" vector-effect="non-scaling-stroke"/>
+  <path id="throughput-data-319" class="st3" d="M96.87,574.77c-4.24,0-7.67-3.42-7.68-7.66,0-4.24,3.42-7.67,7.66-7.68h.02c4.24,0,7.67,3.42,7.68,7.66,0,4.24-3.42,7.67-7.66,7.68h-.02Z" data-axis-y="353.15244" data-mode="vol" data-mode-shape="circle" data-rate="2470.48687374313" data-tool="fss"/>
+  <path id="throughput-data-320" class="st81" d="M96.87,774.45c-3.47,0-6.28-2.8-6.28-6.27s2.8-6.28,6.27-6.28h.01c3.47,0,6.28,2.8,6.28,6.27s-2.8,6.28-6.27,6.28h-.01Z" data-axis-y="528.53918" data-mode="vol" data-mode-shape="circle" data-rate="726.2219119954441" data-tool="rdkit"/>
+  <path id="throughput-data-321" class="st81" d="M96.87,836.71c-3.47,0-6.28-2.8-6.28-6.27s2.8-6.28,6.27-6.28h.01c3.47,0,6.28,2.8,6.28,6.27s-2.8,6.28-6.27,6.28h-.01Z" data-axis-y="539.32575" data-mode="vol" data-mode-shape="circle" data-rate="186.0092107426615" data-tool="phesa"/>
+  <path id="throughput-data-322" class="st81" d="M96.87,855.56c-3.47,0-6.28-2.8-6.28-6.27s2.8-6.28,6.27-6.28h.01c3.47,0,6.28,2.8,6.28,6.27s-2.8,6.28-6.27,6.28h-.01Z" data-axis-y="593.37670" data-mode="vol" data-mode-shape="circle" data-rate="22.521663554865114" data-tool="shaep"/>
+  <g class="st95">
+    <g class="st95">
+      <g id="throughput-data-323" class="st95">
+        <text class="st91" transform="translate(107.24 571.85)"><tspan x="0" y="0">2.5k</tspan></text>
+      </g>
+    </g>
+  </g>
+  <g class="st95">
+    <g id="throughput-data-324" class="st95">
+      <text class="st37" transform="translate(94.37 771.79)"><tspan x="0" y="0">2</tspan></text>
+    </g>
+  </g>
+  <g class="st95">
+    <g id="throughput-data-325" class="st95">
+      <text class="st37" transform="translate(94.87 834.06)"><tspan x="0" y="0">1</tspan></text>
+    </g>
+  </g>
+  <g class="st95">
+    <g id="throughput-data-326" class="st95">
+      <text class="st37" transform="translate(94.37 852.9)"><tspan x="0" y="0">3</tspan></text>
+    </g>
+  </g>
+  <path id="throughput-data-327" class="st55" d="M119.37,754.87v97.01" vector-effect="non-scaling-stroke"/>
+  <path id="throughput-data-328" class="st29" d="M119.37,745.28l8.44,9.59-8.44,9.59-8.44-9.59,8.44-9.59Z" data-axis-y="516.92259" data-mode="vol_esp" data-mode-shape="diamond" data-rate="841.5745851296386" data-tool="fss"/>
+  <g class="st95">
+    <g class="st95">
+      <g id="throughput-data-329" class="st95">
+        <text class="st91" transform="translate(124.22 739.29) rotate(-90)"><tspan x="0" y="0">842</tspan></text>
+      </g>
+    </g>
+  </g>
+  <path id="throughput-data-330" class="st66" d="M141.88,797.88v54.01" vector-effect="non-scaling-stroke"/>
+  <path id="throughput-data-331" class="st13" d="M141.88,787.86l8.05,15.34h-16.1l8.05-15.34Z" data-axis-y="559.46303" data-mode="vol_lipo" data-mode-shape="triangle-up" data-rate="468.4369494987529" data-tool="fss"/>
+  <g class="st95">
+    <g class="st95">
+      <g id="throughput-data-332" class="st95">
+        <text class="st91" transform="translate(146.73 783.55) rotate(-90)"><tspan x="0" y="0">468</tspan></text>
+      </g>
+    </g>
+  </g>
+  <path id="throughput-data-333-baseline" class="st75" d="M164.38,775.06v76.83" vector-effect="non-scaling-stroke"/>
+  <path id="throughput-data-333" class="st41" d="M164.38,758.15v16.9" vector-effect="non-scaling-stroke"/>
+  <path id="throughput-data-334" class="st21" d="M157.48,751.25h13.8v13.8h-13.8v-13.8Z" data-axis-y="517.12291" data-mode="vol_color" data-mode-shape="square" data-rate="813.0496628368685" data-tool="fss"/>
+  <path id="throughput-data-335" class="st79" d="M158.73,769.4h11.29v11.29h-11.29v-11.29Z" data-axis-y="533.81835" data-mode="vol_color" data-mode-shape="square" data-rate="666.4500692104124" data-tool="rdkit"/>
+  <g class="st95">
+    <g class="st95">
+      <g id="throughput-data-336" class="st95">
+        <text class="st91" transform="translate(169.23 743.83) rotate(-90)"><tspan x="0" y="0">813</tspan></text>
+      </g>
+    </g>
+  </g>
+  <g class="st95">
+    <g id="throughput-data-337" class="st95">
+      <text class="st36" transform="translate(161.87 778.68)"><tspan x="0" y="0">4</tspan></text>
+    </g>
+  </g>
+  <path id="throughput-data-338-baseline" class="st75" d="M186.89,841.89v10.00" vector-effect="non-scaling-stroke"/>
+  <path id="throughput-data-338" class="st53" d="M186.89,827.73v14.16" vector-effect="non-scaling-stroke"/>
+  <g class="st95">
+    <g class="st95">
+      <g id="throughput-data-339" class="st95">
+        <text class="st91" transform="translate(178.74 852.59) rotate(-90)"><tspan x="0" y="0">19</tspan></text>
+      </g>
+    </g>
+  </g>
+  <path id="throughput-data-340" data-display-offset-y="-2.59" class="st80" d="M193.66,827.73l-3.39,5.87h-6.78l-3.39-5.87,3.39-5.87h6.78l3.39,5.87Z" data-axis-y="578.70016" data-mode="vol_and_surf_esp" data-mode-shape="hexagon" data-rate="187.0675216082608" data-tool="espsim"/>
+  <g class="st95">
+    <g id="throughput-data-341" class="st95">
+      <text class="st33" transform="translate(184.38 831.35)"><tspan x="0" y="0">5</tspan></text>
+    </g>
+  </g>
+  <path id="throughput-data-342" data-display-offset-y="2.21" class="st22" d="M195.17,851.89l-4.14,7.17h-8.28l-4.14-7.17,4.14-7.17h8.28l4.14,7.17Z" data-axis-y="584.02878" data-mode="vol_and_surf_esp" data-mode-shape="hexagon" data-rate="19.046425524699774" data-tool="fss"/>
+  <path id="throughput-data-343" data-display-offset-y="-7.40" class="st80" d="M193.66,841.89l-3.39,5.87h-6.78l-3.39-5.87,3.39-5.87h6.78l3.39,5.87Z" data-axis-y="593.37765" data-mode="vol_and_surf_esp" data-mode-shape="hexagon" data-rate="22.521663554865114" data-tool="shaep"/>
+  <g class="st95">
+    <g id="throughput-data-344" class="st95">
+      <text class="st33" transform="translate(184.38 845.51)"><tspan x="0" y="0">6</tspan></text>
+    </g>
+  </g>
+  <path id="throughput-data-345" class="st42" d="M209.39,848.63v3.25" vector-effect="non-scaling-stroke"/>
+  <path id="throughput-data-346" class="st16" d="M209.39,858.64l8.05-15.34h-16.1l8.05,15.34Z" data-axis-y="592.85746" data-mode="surf_esp" data-mode-shape="triangle-down" data-rate="28.160687729155068" data-tool="fss"/>
+  <g class="st95">
+    <g class="st95">
+      <g id="throughput-data-347" class="st95">
+        <text class="st91" transform="translate(214.24 835.35) rotate(-90)"><tspan x="0" y="0">28</tspan></text>
+      </g>
+    </g>
+  </g>
+  <path id="throughput-data-348" class="st48" d="M231.9,848.92v2.97" vector-effect="non-scaling-stroke"/>
+  <path id="throughput-data-349" class="st6" d="M228.98,840.87h5.83v5.14h5.14v5.83h-5.14v5.14h-5.83v-5.14h-5.14v-5.83h5.14v-5.14Z" data-axis-y="592.65779" data-mode="surf" data-mode-shape="plus" data-rate="25.72805376477383" data-tool="fss"/>
+  <g class="st95">
+    <g class="st95">
+      <g id="throughput-data-350" class="st95">
+        <text class="st91" transform="translate(236.75 834.39) rotate(-90)"><tspan x="0" y="0">26</tspan></text>
+      </g>
+    </g>
+  </g>
+  <path id="throughput-data-351-baseline" class="st75" d="M254.4,831.18v20.7" vector-effect="non-scaling-stroke"/>
+  <path id="throughput-data-351" class="st67" d="M254.4,675.12v156.06" vector-effect="non-scaling-stroke"/>
+  <path id="throughput-data-352" class="st12" d="M254.4,769.6l7.88,5.72-3.01,9.26h-9.74l-3.01-9.26,7.88-5.72Z" data-axis-y="540.86358" data-display-offset-y="-6" data-mode="pharm" data-mode-shape="pentagon" data-rate="574.1342172412263" data-tool="fss"/>
+  <path id="throughput-data-353" class="st78" d="M254.4,667.96l6.44,4.68-2.46,7.58h-7.97l-2.46-7.58,6.44-4.68h0Z" data-axis-y="448.80926" data-mode="pharm" data-mode-shape="pentagon" data-rate="1533.3873941416703" data-tool="pharao"/>
+  <path id="throughput-data-354" class="st78" d="M254.4,831.33l6.44,4.68-2.46,7.58h-7.97l-2.46-7.58,6.44-4.68h0Z" data-axis-y="541.99498" data-display-offset-y="6" data-mode="pharm" data-mode-shape="pentagon" data-rate="179.65222310831277" data-tool="phesa"/>
+  <g class="st95">
+    <g class="st95">
+      <g id="throughput-data-355" class="st95">
+        <text class="st91" transform="translate(248 767.62) rotate(-90)"><tspan x="0" y="0">574</tspan></text>
+      </g>
+    </g>
+  </g>
+  <g class="st95">
+    <g id="throughput-data-356" class="st95">
+      <text class="st88" transform="translate(252.44 677.88)"><tspan x="0" y="0">7</tspan></text>
+    </g>
+  </g>
+  <g id="shared-cpu-end" class="st95">
+    <g id="throughput-data-357" class="st95">
+      <text class="st88" transform="translate(251.89 841.08)"><tspan x="0" y="0">8</tspan></text>
+    </g>
+  </g>
+  <path class="st64" d="M84.59,552.17v299.71" vector-effect="non-scaling-stroke"/>
+  <path class="st64" d="M80.59,851.89h4" vector-effect="non-scaling-stroke"/>
+  <g class="st95">
+    <g class="st95">
+      <g class="st95">
+        <text class="st97" transform="translate(68.73 854.4)"><tspan x="0" y="0">0</tspan></text>
+      </g>
+    </g>
+  </g>
+  <path class="st64" d="M80.59,794.24h4" vector-effect="non-scaling-stroke"/>
+  <g class="st95">
+    <g class="st95">
+      <g class="st95">
+        <text class="st97" transform="translate(53.01 796.77)"><tspan x="0" y="0">500</tspan></text>
+      </g>
+    </g>
+  </g>
+  <path class="st64" d="M80.59,736.61h4" vector-effect="non-scaling-stroke"/>
+  <g class="st95">
+    <g class="st95">
+      <g class="st95">
+        <text class="st97" transform="translate(61.67 739.12)"><tspan x="0" y="0">1k</tspan></text>
+      </g>
+    </g>
+  </g>
+  <path class="st64" d="M80.59,678.97h4" vector-effect="non-scaling-stroke"/>
+  <g class="st95">
+    <g class="st95">
+      <g class="st95">
+        <text class="st97" transform="translate(49.87 681.49)"><tspan x="0" y="0">1.5k</tspan></text>
+      </g>
+    </g>
+  </g>
+  <path class="st64" d="M80.59,621.34h4" vector-effect="non-scaling-stroke"/>
+  <g class="st95">
+    <g class="st95">
+      <g class="st95">
+        <text class="st97" transform="translate(61.67 623.85)"><tspan x="0" y="0">2k</tspan></text>
+      </g>
+    </g>
+  </g>
+  <path class="st64" d="M80.59,563.7h4" vector-effect="non-scaling-stroke"/>
+  <g class="st95">
+    <g class="st95">
+      <g class="st95">
+        <text class="st99" transform="translate(49.03 566.22)"><tspan x="0" y="0">2.5k</tspan></text>
+      </g>
+    </g>
+  </g>
+  <g class="st95">
+    <g class="st95">
+      <g class="st95">
+        <text class="st96" transform="translate(128.05 520.6)"><tspan x="0" y="0">CPU screening</tspan></text>
+      </g>
+    </g>
+  </g>
+  <g class="st95">
+    <g class="st95">
+      <g class="st95">
+        <g class="st95">
+          <text class="st98" transform="translate(108.84 536.05)"><tspan x="0" y="0">N=1k, 1x AMD EPYC 9474F</tspan></text>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g class="st95">
+    <g class="st95">
+      <g class="st95">
+        <text class="st93" transform="translate(33.59 773.33) rotate(-90)"><tspan x="0" y="0">alignments / second</tspan></text>
+      </g>
+    </g>
+  </g>
+  <g class="st95">
+    <g class="st95">
+      <g class="st95">
+        <text class="st93" transform="translate(121.63 872.75)"><tspan x="0" y="0">alignment mode</tspan></text>
+      </g>
+    </g>
+  </g>
+  <path id="throughput-data-375-baseline" class="st75" d="M366.86,603.32v248.57" vector-effect="non-scaling-stroke"/>
+  <path id="throughput-data-375" class="st44" d="M366.86,603.32v-22.5" vector-effect="non-scaling-stroke"/>
+  <path id="throughput-data-376" class="st3" d="M366.87,588.49c-4.24,0-7.67-3.43-7.67-7.67s3.43-7.67,7.67-7.67,7.67,3.43,7.67,7.67-3.43,7.67-7.67,7.67Z" data-mode="vol" data-mode-shape="circle" data-rate="1034607.5918486763" data-tool="fss"/>
+  <g class="st95">
+    <g class="st95">
+      <g id="throughput-data-377" class="st95">
+        <text class="st91" transform="translate(376.24 585.57)"><tspan x="0" y="0">1.03M</tspan></text>
+      </g>
+    </g>
+  </g>
+  <path id="throughput-data-378" class="st81" d="M366.87,609.59c-3.47,0-6.28-2.8-6.28-6.27s2.8-6.28,6.27-6.28h.01c3.47,0,6.28,2.8,6.28,6.27s-2.8,6.28-6.27,6.28h-.01Z" data-mode="vol" data-mode-shape="circle" data-rate="948735.5473347773" data-tool="roshambo2"/>
+  <g class="st95">
+    <g id="throughput-data-379" class="st95">
+      <text class="st37" transform="translate(364.37 606.95)"><tspan x="0" y="0">9</tspan></text>
+    </g>
+  </g>
+  <path id="throughput-data-380" class="st55" d="M389.37,851.89v-96.47" vector-effect="non-scaling-stroke"/>
+  <path id="throughput-data-381" class="st29" d="M389.37,745.83l8.44,9.59-8.44,9.59-8.44-9.59,8.44-9.59Z" data-mode="vol_esp" data-mode-shape="diamond" data-rate="368212.22150574083" data-tool="fss"/>
+  <g class="st95">
+    <g class="st95">
+      <g id="throughput-data-382" class="st95">
+        <text class="st91" transform="translate(394.22 740.08) rotate(-90)"><tspan x="0" y="0">368k</tspan></text>
+      </g>
+    </g>
+  </g>
+  <path id="throughput-data-383" class="st66" d="M411.88,851.89v-54.86" vector-effect="non-scaling-stroke"/>
+  <path id="throughput-data-384" class="st13" d="M411.88,787.01l8.05,15.34h-16.1l8.05-15.34h0Z" data-mode="vol_lipo" data-mode-shape="triangle-up" data-rate="209397.45427248563" data-tool="fss"/>
+  <g class="st95">
+    <g class="st95">
+      <g id="throughput-data-385" class="st95">
+        <text class="st91" transform="translate(416.72 781.69) rotate(-90)"><tspan x="0" y="0">209k</tspan></text>
+      </g>
+    </g>
+  </g>
+  <path id="throughput-data-386-baseline" class="st75" d="M434.38,807.27v44.61" vector-effect="non-scaling-stroke"/>
+  <path id="throughput-data-386" class="st41" d="M434.38,807.27v-46.76" vector-effect="non-scaling-stroke"/>
+  <path id="throughput-data-387" class="st21" d="M427.48,753.61h13.8v13.8h-13.8v-13.8Z" data-mode="vol_color" data-mode-shape="square" data-rate="348793.27200328145" data-tool="fss"/>
+  <g class="st95">
+    <g class="st95">
+      <g id="throughput-data-388" class="st95">
+        <text class="st91" transform="translate(439.23 745.17) rotate(-90)"><tspan x="0" y="0">349k</tspan></text>
+      </g>
+    </g>
+  </g>
+  <path id="throughput-data-389" class="st79" d="M428.73,801.62h11.29v11.29h-11.29v-11.29Z" data-mode="vol_color" data-mode-shape="square" data-rate="170289.2578077715" data-tool="roshambo2"/>
+  <g class="st95">
+    <g id="throughput-data-390" class="st95">
+      <text class="st36" transform="translate(429.5 810.9)"><tspan x="0" y="0">10</tspan></text>
+    </g>
+  </g>
+  <path id="throughput-data-391" class="st53" d="M456.89,851.89v-4.68" vector-effect="non-scaling-stroke"/>
+  <path id="throughput-data-392" class="st22" d="M465.17,847.21l-4.14,7.17h-8.28l-4.14-7.17,4.14-7.17h8.28l4.14,7.17Z" data-mode="vol_and_surf_esp" data-mode-shape="hexagon" data-rate="17839.19192376833" data-tool="fss"/>
+  <g class="st95">
+    <g class="st95">
+      <g id="throughput-data-393" class="st95">
+        <text class="st91" transform="translate(461.73 832.92) rotate(-90)"><tspan x="0" y="0">18k</tspan></text>
+      </g>
+    </g>
+  </g>
+  <path id="throughput-data-394" class="st42" d="M479.39,851.89v-7.82" vector-effect="non-scaling-stroke"/>
+  <path id="throughput-data-395" class="st16" d="M479.39,854.08l8.05-15.34h-16.1l8.05,15.34h0Z" data-mode="surf_esp" data-mode-shape="triangle-down" data-rate="29837.84664465907" data-tool="fss"/>
+  <g class="st95">
+    <g class="st95">
+      <g id="throughput-data-396" class="st95">
+        <text class="st91" transform="translate(484.24 829.79) rotate(-90)"><tspan x="0" y="0">30k</tspan></text>
+      </g>
+    </g>
+  </g>
+  <path id="throughput-data-397" class="st48" d="M501.9,851.89v-13.29" vector-effect="non-scaling-stroke"/>
+  <path id="throughput-data-398" class="st6" d="M498.98,830.55h5.83v5.14h5.14v5.83h-5.14v5.14h-5.83v-5.14h-5.14v-5.83h5.14v-5.14Z" data-mode="surf" data-mode-shape="plus" data-rate="50726.20152762606" data-tool="fss"/>
+  <g class="st95">
+    <g class="st95">
+      <g id="throughput-data-399" class="st95">
+        <text class="st91" transform="translate(506.74 824.32) rotate(-90)"><tspan x="0" y="0">51k</tspan></text>
+      </g>
+    </g>
+  </g>
+  <path id="throughput-data-400" class="st67" d="M524.4,851.89v-44.54" vector-effect="non-scaling-stroke"/>
+  <path id="throughput-data-401" class="st12" d="M524.4,798.57l7.88,5.72-3.01,9.26h-9.74l-3.01-9.26,7.88-5.72Z" data-mode="pharm" data-mode-shape="pentagon" data-rate="170038.54580316527" data-tool="fss"/>
+  <g id="updated-D-screen-end" class="st95">
+    <g class="st95">
+      <g id="throughput-data-402" class="st95">
+        <text class="st91" transform="translate(529.25 792) rotate(-90)"><tspan x="0" y="0">170k</tspan></text>
+      </g>
+    </g>
+  </g>
+  <path class="st64" d="M354.59,563.7v288.19" vector-effect="non-scaling-stroke"/>
+  <path class="st64" d="M350.59,851.89h4" vector-effect="non-scaling-stroke"/>
+  <g class="st95">
+    <g class="st95">
+      <g class="st95">
+        <text class="st97" transform="translate(338.73 854.4)"><tspan x="0" y="0">0</tspan></text>
+      </g>
+    </g>
+  </g>
+  <path class="st64" d="M350.59,786.38h4" vector-effect="non-scaling-stroke"/>
+  <g class="st95">
+    <g class="st95">
+      <g class="st95">
+        <text class="st97" transform="translate(315.93 788.9)"><tspan x="0" y="0">250k</tspan></text>
+      </g>
+    </g>
+  </g>
+  <path class="st64" d="M350.59,720.89h4" vector-effect="non-scaling-stroke"/>
+  <g class="st95">
+    <g class="st95">
+      <g class="st95">
+        <text class="st97" transform="translate(315.93 723.41)"><tspan x="0" y="0">500k</tspan></text>
+      </g>
+    </g>
+  </g>
+  <path class="st64" d="M350.59,655.39h4" vector-effect="non-scaling-stroke"/>
+  <g class="st95">
+    <g class="st95">
+      <g class="st95">
+        <text class="st97" transform="translate(315.93 657.91)"><tspan x="0" y="0">750k</tspan></text>
+      </g>
+    </g>
+  </g>
+  <path class="st64" d="M350.59,589.9h4" vector-effect="non-scaling-stroke"/>
+  <g class="st95">
+    <g class="st95">
+      <g class="st95">
+        <text class="st99" transform="translate(326.95 592.42)"><tspan x="0" y="0">1M</tspan></text>
+      </g>
+    </g>
+  </g>
+  <g class="st95">
+    <g class="st95">
+      <g class="st95">
+        <text class="st96" transform="translate(397.65 520.6)"><tspan x="0" y="0">GPU screening</tspan></text>
+      </g>
+    </g>
+  </g>
+  <g class="st95">
+    <g class="st95">
+      <g class="st95">
+        <g class="st95">
+          <text class="st98" transform="translate(381.65 536.05)"><tspan x="0" y="0">N=10M, 1x NVIDIA L40S</tspan></text>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g class="st95">
+    <g class="st95">
+      <g class="st95">
+        <text class="st93" transform="translate(303.59 773.33) rotate(-90)"><tspan x="0" y="0">alignments / second</tspan></text>
+      </g>
+    </g>
+  </g>
+  <g class="st95">
+    <g class="st95">
+      <g class="st95">
+        <text class="st93" transform="translate(391.63 872.75)"><tspan x="0" y="0">alignment mode</tspan></text>
+      </g>
+    </g>
+  </g>
+  <path id="throughput-data-418-baseline" class="st75" d="M636.87,834.78v17.1" vector-effect="non-scaling-stroke"/>
+  <path id="throughput-data-418" class="st44" d="M636.87,834.78v-255.62" vector-effect="non-scaling-stroke"/>
+  <path id="throughput-data-419" class="st3" d="M636.87,586.83c-4.24,0-7.67-3.43-7.67-7.67s3.43-7.67,7.67-7.67h0c4.24,0,7.67,3.43,7.67,7.67s-3.43,7.67-7.67,7.67Z" data-mode="vol" data-mode-shape="circle" data-rate="118293.48446088564" data-tool="fss"/>
+  <g class="st95">
+    <g class="st95">
+      <g id="throughput-data-420" class="st95">
+        <text class="st91" transform="translate(645.24 583.91)"><tspan x="0" y="0">118k</tspan></text>
+      </g>
+    </g>
+  </g>
+  <path id="throughput-data-421" class="st81" d="M636.87,841.06c-3.47,0-6.28-2.8-6.28-6.27s2.8-6.28,6.27-6.28h.01c3.47,0,6.28,2.8,6.28,6.27s-2.8,6.28-6.27,6.28h-.01Z" data-mode="vol" data-mode-shape="circle" data-rate="7415.429094667344" data-tool="roshambo2"/>
+  <g class="st95">
+    <g id="throughput-data-422" class="st95">
+      <text class="st37" transform="translate(634.37 838.42)"><tspan x="0" y="0">9</tspan></text>
+    </g>
+  </g>
+  <path id="throughput-data-423" class="st55" d="M659.37,851.89v-190.95" vector-effect="non-scaling-stroke"/>
+  <path id="throughput-data-424" class="st29" d="M659.37,651.34l8.44,9.59-8.44,9.59-8.44-9.59,8.44-9.59Z" data-mode="vol_esp" data-mode-shape="diamond" data-rate="82823.29621878946" data-tool="fss"/>
+  <g class="st95">
+    <g class="st95">
+      <g id="throughput-data-425" class="st95">
+        <text class="st91" transform="translate(664.22 645.4) rotate(-90)"><tspan x="0" y="0">83k</tspan></text>
+      </g>
+    </g>
+  </g>
+  <path id="throughput-data-426" class="st66" d="M681.88,851.89v-134.84" vector-effect="non-scaling-stroke"/>
+  <path id="throughput-data-427" class="st13" d="M681.88,707.03l8.05,15.34h-16.1l8.05-15.34Z" data-mode="vol_lipo" data-mode-shape="triangle-up" data-rate="58492.852974480535" data-tool="fss"/>
+  <g class="st95">
+    <g class="st95">
+      <g id="throughput-data-428" class="st95">
+        <text class="st91" transform="translate(686.72 701.49) rotate(-90)"><tspan x="0" y="0">58k</tspan></text>
+      </g>
+    </g>
+  </g>
+  <path id="throughput-data-429-baseline" class="st75" d="M704.38,848.83v3.06" vector-effect="non-scaling-stroke"/>
+  <path id="throughput-data-429" class="st41" d="M704.38,848.83v-136.97" vector-effect="non-scaling-stroke"/>
+  <path id="throughput-data-430" class="st21" d="M697.48,704.97h13.8v13.8h-13.8v-13.8Z" data-mode="vol_color" data-mode-shape="square" data-rate="60727.58245955664" data-tool="fss"/>
+  <g class="st95">
+    <g class="st95">
+      <g id="throughput-data-431" class="st95">
+        <text class="st91" transform="translate(709.23 697.58) rotate(-90)"><tspan x="0" y="0">61k</tspan></text>
+      </g>
+    </g>
+  </g>
+  <path id="throughput-data-432" class="st79" d="M698.73,843.18h11.29v11.29h-11.29v-11.29Z" data-mode="vol_color" data-mode-shape="square" data-rate="1322.818944154756" data-tool="roshambo2"/>
+  <g class="st95">
+    <g id="throughput-data-433" class="st95">
+      <text class="st36" transform="translate(699.5 852.46)"><tspan x="0" y="0">10</tspan></text>
+    </g>
+  </g>
+  <path id="throughput-data-434" class="st53" d="M726.89,851.89v-30.89" vector-effect="non-scaling-stroke"/>
+  <path id="throughput-data-435" class="st22" d="M735.17,820.98l-4.14,7.17h-8.28l-4.14-7.17,4.14-7.17h8.28l4.14,7.17Z" data-mode="vol_and_surf_esp" data-mode-shape="hexagon" data-rate="13400.574676317558" data-tool="fss"/>
+  <g class="st95">
+    <g class="st95">
+      <g id="throughput-data-436" class="st95">
+        <text class="st91" transform="translate(731.73 806.71) rotate(-90)"><tspan x="0" y="0">13k</tspan></text>
+      </g>
+    </g>
+  </g>
+  <path id="throughput-data-437" class="st42" d="M749.39,851.89v-59.64" vector-effect="non-scaling-stroke"/>
+  <path id="throughput-data-438" class="st16" d="M749.39,802.27l8.05-15.34h-16.1l8.05,15.34Z" data-mode="surf_esp" data-mode-shape="triangle-down" data-rate="25862.864052760953" data-tool="fss"/>
+  <g class="st95">
+    <g class="st95">
+      <g id="throughput-data-439" class="st95">
+        <text class="st91" transform="translate(754.24 777.97) rotate(-90)"><tspan x="0" y="0">26k</tspan></text>
+      </g>
+    </g>
+  </g>
+  <path id="throughput-data-440" class="st48" d="M771.9,851.89v-92.43" vector-effect="non-scaling-stroke"/>
+  <path id="throughput-data-441" class="st6" d="M768.98,751.41h5.83v5.14h5.14v5.83h-5.14v5.14h-5.83v-5.14h-5.14v-5.83h5.14v-5.14Z" data-mode="surf" data-mode-shape="plus" data-rate="40090.24470727705" data-tool="fss"/>
+  <g class="st95">
+    <g class="st95">
+      <g id="throughput-data-442" class="st95">
+        <text class="st91" transform="translate(776.74 745.17) rotate(-90)"><tspan x="0" y="0">40k</tspan></text>
+      </g>
+    </g>
+  </g>
+  <path id="throughput-data-443" class="st67" d="M794.4,851.89v-146.75" vector-effect="non-scaling-stroke"/>
+  <path id="throughput-data-444" class="st12" d="M794.4,696.36l7.88,5.72-3.01,9.26h-9.74l-3.01-9.26,7.88-5.72Z" data-mode="pharm" data-mode-shape="pentagon" data-rate="63657.86787655887" data-tool="fss"/>
+  <g id="updated-D-pair-end" class="st95">
+    <g class="st95">
+      <g id="throughput-data-445" class="st95">
+        <text class="st91" transform="translate(799.25 689.59) rotate(-90)"><tspan x="0" y="0">64k</tspan></text>
+      </g>
+    </g>
+  </g>
+  <path class="st64" d="M624.59,563.7v288.19" vector-effect="non-scaling-stroke"/>
+  <path class="st64" d="M620.59,851.89h4" vector-effect="non-scaling-stroke"/>
+  <g class="st95">
+    <g class="st95">
+      <g class="st95">
+        <text class="st97" transform="translate(608.73 854.4)"><tspan x="0" y="0">0</tspan></text>
+      </g>
+    </g>
+  </g>
+  <path class="st64" d="M620.59,794.24h4" vector-effect="non-scaling-stroke"/>
+  <g class="st95">
+    <g class="st95">
+      <g class="st95">
+        <text class="st97" transform="translate(593.79 796.77)"><tspan x="0" y="0">25k</tspan></text>
+      </g>
+    </g>
+  </g>
+  <path class="st64" d="M620.59,736.61h4" vector-effect="non-scaling-stroke"/>
+  <g class="st95">
+    <g class="st95">
+      <g class="st95">
+        <text class="st97" transform="translate(593.79 739.12)"><tspan x="0" y="0">50k</tspan></text>
+      </g>
+    </g>
+  </g>
+  <path class="st64" d="M620.59,678.97h4" vector-effect="non-scaling-stroke"/>
+  <g class="st95">
+    <g class="st95">
+      <g class="st95">
+        <text class="st97" transform="translate(593.79 681.49)"><tspan x="0" y="0">75k</tspan></text>
+      </g>
+    </g>
+  </g>
+  <path class="st64" d="M620.59,621.34h4" vector-effect="non-scaling-stroke"/>
+  <g class="st95">
+    <g class="st95">
+      <g class="st95">
+        <text class="st97" transform="translate(585.93 623.85)"><tspan x="0" y="0">100k</tspan></text>
+      </g>
+    </g>
+  </g>
+  <path class="st64" d="M620.59,563.7h4" vector-effect="non-scaling-stroke"/>
+  <g class="st95">
+    <g class="st95">
+      <g class="st95">
+        <text class="st99" transform="translate(585.09 566.22)"><tspan x="0" y="0">125k</tspan></text>
+      </g>
+    </g>
+  </g>
+  <g class="st95">
+    <g class="st95">
+      <g class="st95">
+        <text class="st96" transform="translate(672.79 520.6)"><tspan x="0" y="0">GPU pairwise</tspan></text>
+      </g>
+    </g>
+  </g>
+  <g class="st95">
+    <g class="st95">
+      <g class="st95">
+        <g class="st95">
+          <text class="st98" transform="translate(651.42 536.05)"><tspan x="0" y="0">N=100k, 1x NVIDIA L40S</tspan></text>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g class="st95">
+    <g class="st95">
+      <g class="st95">
+        <text class="st93" transform="translate(573.59 773.33) rotate(-90)"><tspan x="0" y="0">alignments / second</tspan></text>
+      </g>
+    </g>
+  </g>
+  <g class="st95">
+    <g class="st95">
+      <g class="st95">
+        <text class="st93" transform="translate(661.63 872.75)"><tspan x="0" y="0">alignment mode</tspan></text>
+      </g>
+    </g>
+  </g>
+  <g class="st95">
+    <g class="st95">
+      <g class="st95">
+        <text class="st96" transform="translate(866.28 520.6)"><tspan x="0" y="0">External Tool</tspan></text>
+      </g>
+    </g>
+  </g>
+  <g class="st95">
+    <g class="st95">
+      <g class="st95">
+        <g class="st95">
+          <text class="st98" transform="translate(899.53 536.05)"><tspan x="0" y="0">mode</tspan></text>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g>
+    <path class="st85" d="M865.59,565.16c-4.42,0-8-3.57-8-7.98s3.57-8,7.98-8h.02c4.42,0,8,3.57,8,7.98s-3.57,8-7.98,8h-.02Z" vector-effect="non-scaling-stroke"/>
+    <g class="st95">
+      <g class="st95">
+        <text class="st38" transform="translate(863.19 561.17)"><tspan x="0" y="0">1</tspan></text>
+      </g>
+    </g>
+    <g class="st95">
+      <g class="st95">
+        <g class="st95">
+          <text class="st97" transform="translate(882.59 561.02)"><tspan x="0" y="0">PheSA</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g class="st95">
+      <g class="st95">
+        <g class="st95">
+          <g class="st95">
+            <text class="st98" transform="translate(882.59 574.52)"><tspan x="0" y="0">shape</tspan></text>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g>
+    <path class="st85" d="M865.59,598.19c-4.42,0-8-3.57-8-7.98s3.57-8,7.98-8h.02c4.42,0,8,3.57,8,7.98s-3.57,8-7.98,8h-.02Z" vector-effect="non-scaling-stroke"/>
+    <g class="st95">
+      <g class="st95">
+        <text class="st38" transform="translate(862.79 594.2)"><tspan x="0" y="0">2</tspan></text>
+      </g>
+    </g>
+    <g class="st95">
+      <g class="st95">
+        <g class="st95">
+          <text class="st97" transform="translate(882.59 594.05)"><tspan x="0" y="0">RDKit</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g class="st95">
+      <g class="st95">
+        <g class="st95">
+          <g class="st95">
+            <text class="st98" transform="translate(882.59 607.55)"><tspan x="0" y="0">shape</tspan></text>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g>
+    <path class="st85" d="M865.59,631.22c-4.42,0-8-3.57-8-7.98s3.57-8,7.98-8h.02c4.42,0,8,3.57,8,7.98s-3.57,8-7.98,8h-.02Z" vector-effect="non-scaling-stroke"/>
+    <g class="st95">
+      <g class="st95">
+        <text class="st38" transform="translate(862.79 627.22)"><tspan x="0" y="0">3</tspan></text>
+      </g>
+    </g>
+    <g class="st95">
+      <g class="st95">
+        <g class="st95">
+          <text class="st97" transform="translate(882.59 627.07)"><tspan x="0" y="0">ShaEP</tspan></text>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g class="st95">
+    <g class="st95">
+      <g class="st95">
+        <g class="st95">
+          <text class="st98" transform="translate(882.59 640.57)"><tspan x="0" y="0">shape</tspan></text>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g>
+    <path class="st82" d="M857.59,648.25h16v16h-16v-16Z" vector-effect="non-scaling-stroke"/>
+    <g class="st95">
+      <g class="st95">
+        <text class="st35" transform="translate(862.79 660.25)"><tspan x="0" y="0">4</tspan></text>
+      </g>
+    </g>
+    <g class="st95">
+      <g class="st95">
+        <g class="st95">
+          <text class="st97" transform="translate(882.59 660.1)"><tspan x="0" y="0">RDKit</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g class="st95">
+      <g class="st95">
+        <g class="st95">
+          <g class="st95">
+            <text class="st98" transform="translate(882.59 673.6)"><tspan x="0" y="0">shape+color</tspan></text>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g>
+    <path class="st84" d="M873.59,689.28l-4,6.93h-8l-4-6.93,4-6.93h8l4,6.93Z" vector-effect="non-scaling-stroke"/>
+    <g class="st95">
+      <g class="st95">
+        <text class="st34" transform="translate(862.39 693.28)"><tspan x="0" y="0">5</tspan></text>
+      </g>
+    </g>
+    <g class="st95">
+      <g class="st95">
+        <g class="st95">
+          <text class="st97" transform="translate(882.59 693.13)"><tspan x="0" y="0">ESP-Sim</tspan></text>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g class="st95">
+    <g class="st95">
+      <g class="st95">
+        <g class="st95">
+          <text class="st98" transform="translate(882.59 706.63)"><tspan x="0" y="0">ESP</tspan></text>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g>
+    <path class="st84" d="M873.59,722.31l-4,6.93h-8l-4-6.93,4-6.93h8l4,6.93Z" vector-effect="non-scaling-stroke"/>
+    <g class="st95">
+      <g class="st95">
+        <text class="st34" transform="translate(862.79 726.31)"><tspan x="0" y="0">6</tspan></text>
+      </g>
+    </g>
+    <g class="st95">
+      <g class="st95">
+        <g class="st95">
+          <text class="st97" transform="translate(882.59 726.16)"><tspan x="0" y="0">ShaEP</tspan></text>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g class="st95">
+    <g class="st95">
+      <g class="st95">
+        <g class="st95">
+          <text class="st98" transform="translate(882.59 739.66)"><tspan x="0" y="0">shape+ESP</tspan></text>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g>
+    <path class="st77" d="M865.6,747.73l7.99,5.81-3.06,9.41h-9.9l-3.06-9.41,7.99-5.81h.02Z" vector-effect="non-scaling-stroke"/>
+    <g class="st95">
+      <g class="st95">
+        <text class="st87" transform="translate(863.45 759.51)"><tspan x="0" y="0">7</tspan></text>
+      </g>
+    </g>
+    <g class="st95">
+      <g class="st95">
+        <g class="st95">
+          <text class="st97" transform="translate(882.59 759.19)"><tspan x="0" y="0">Pharao</tspan></text>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g class="st95">
+    <g class="st95">
+      <g class="st95">
+        <g class="st95">
+          <text class="st98" transform="translate(882.59 772.69)"><tspan x="0" y="0">pharm</tspan></text>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g>
+    <path class="st77" d="M865.6,780.76l7.99,5.81-3.06,9.41h-9.9l-3.06-9.41,7.99-5.81h.02Z" vector-effect="non-scaling-stroke"/>
+    <g class="st95">
+      <g class="st95">
+        <text class="st87" transform="translate(862.79 792.37)"><tspan x="0" y="0">8</tspan></text>
+      </g>
+    </g>
+    <g class="st95">
+      <g class="st95">
+        <g class="st95">
+          <text class="st97" transform="translate(882.59 792.22)"><tspan x="0" y="0">PheSA</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g class="st95">
+      <g class="st95">
+        <g class="st95">
+          <g class="st95">
+            <text class="st98" transform="translate(882.59 805.72)"><tspan x="0" y="0">pharm</tspan></text>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g>
+    <path class="st85" d="M865.59,829.39c-4.42,0-8-3.57-8-7.98s3.57-8,7.98-8h.02c4.42,0,8,3.57,8,7.98s-3.57,8-7.98,8h-.02Z" vector-effect="non-scaling-stroke"/>
+    <g class="st95">
+      <g class="st95">
+        <text class="st38" transform="translate(862.79 825.4)"><tspan x="0" y="0">9</tspan></text>
+      </g>
+    </g>
+    <g class="st95">
+      <g class="st95">
+        <g class="st95">
+          <text class="st97" transform="translate(882.59 825.25)"><tspan x="0" y="0">ROSHAMBO2</tspan></text>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g class="st95">
+    <g class="st95">
+      <g class="st95">
+        <g class="st95">
+          <text class="st98" transform="translate(882.59 838.75)"><tspan x="0" y="0">shape</tspan></text>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g>
+    <path class="st82" d="M857.59,846.43h16v16h-16v-16Z" vector-effect="non-scaling-stroke"/>
+    <g class="st95">
+      <g class="st95">
+        <text class="st35" transform="translate(859.93 858.43)"><tspan x="0" y="0">10</tspan></text>
+      </g>
+    </g>
+    <g class="st95">
+      <g class="st95">
+        <g class="st95">
+          <text class="st97" transform="translate(882.59 858.28)"><tspan x="0" y="0">ROSHAMBO2</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g class="st95">
+      <g class="st95">
+        <g class="st95">
+          <g class="st95">
+            <text class="st98" transform="translate(882.59 871.78)"><tspan x="0" y="0">combo</tspan></text>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <path class="st59" d="M880,311h15.12"/>
+  <path class="st72" d="M880,334h15.12"/>
+  <path class="st49" d="M140.09,435.13h15.12"/>
+  <path class="st14" d="M147.65,443c-4.34,0-7.87-3.52-7.87-7.87s3.52-7.87,7.87-7.87,7.87,3.52,7.87,7.87-3.52,7.87-7.87,7.87Z" data-mode="vol" data-mode-shape="circle"/>
+  <path class="st46" d="M200.79,435.13h15.12"/>
+  <path class="st19" d="M208.35,425.3l8.65,9.83-8.65,9.83-8.65-9.83,8.65-9.83Z" data-mode="vol_esp" data-mode-shape="diamond"/>
+  <path class="st45" d="M294.42,435.13h15.12"/>
+  <path class="st30" d="M301.98,425.97l8.26,15.73h-16.52l8.26-15.73h0Z" data-mode="vol_lipo" data-mode-shape="triangle-up"/>
+  <path class="st51" d="M396.28,435.13h15.12"/>
+  <path class="st20" d="M396.76,428.05h14.16v14.16h-14.16v-14.16Z" data-mode="vol_color" data-mode-shape="square"/>
+  <path class="st68" d="M506.35,435.13h15.12"/>
+  <path class="st5" d="M522.41,435.13l-4.25,7.36h-8.49l-4.25-7.36,4.25-7.36h8.49l4.25,7.36Z" data-mode="vol_and_surf_esp" data-mode-shape="hexagon"/>
+  <path class="st69" d="M674.06,435.13h15.12"/>
+  <path class="st18" d="M681.62,444.28l8.26-15.73h-16.52l8.26,15.73Z" data-mode="surf_esp" data-mode-shape="triangle-down"/>
+  <path class="st61" d="M775.92,435.13h15.12"/>
+  <path class="st10" d="M780.49,426.87h5.98v5.27h5.27v5.98h-5.27v5.27h-5.98v-5.27h-5.27v-5.98h5.27v-5.27Z" data-mode="surf" data-mode-shape="plus"/>
+  <path class="st39" d="M844.85,435.13h15.12"/>
+  <path class="st7" d="M852.42,426.56l8.08,5.87-3.09,9.5h-9.99l-3.09-9.5,8.08-5.87h.01Z" data-mode="pharm" data-mode-shape="pentagon"/>
+  <g class="st95">
+    <g class="st95">
+      <g class="st95">
+        <g class="st95">
+          <g class="st95">
+            <text class="st91" transform="translate(902 314)"><tspan x="0" y="0">GPU</tspan></text>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g class="st95">
+    <g class="st95">
+      <g class="st95">
+        <g class="st95">
+          <g class="st95">
+            <text class="st91" transform="translate(902 337)"><tspan x="0" y="0">CPU</tspan></text>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g class="st95">
+    <g class="st95">
+      <g class="st95">
+        <g class="st95">
+          <g class="st95">
+            <text class="st90" transform="translate(161.65 437.98)"><tspan x="0" y="0">vol</tspan></text>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g class="st95">
+    <g class="st95">
+      <g class="st95">
+        <g class="st95">
+          <g class="st95">
+            <text class="st90" transform="translate(222.35 437.98)"><tspan x="0" y="0">vol_esp</tspan></text>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g class="st95">
+    <g class="st95">
+      <g class="st95">
+        <g class="st95">
+          <g class="st95">
+            <text class="st90" transform="translate(315.98 438.01)"><tspan x="0" y="0">vol_lipo</tspan></text>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g class="st95">
+    <g class="st95">
+      <g class="st95">
+        <g class="st95">
+          <g class="st95">
+            <text class="st90" transform="translate(417.84 437.98)"><tspan x="0" y="0">vol_color</tspan></text>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g class="st95">
+    <g class="st95">
+      <g class="st95">
+        <g class="st95">
+          <g class="st95">
+            <text class="st90" transform="translate(527.91 438.01)"><tspan x="0" y="0">vol_and_surf_esp</tspan></text>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g class="st95">
+    <g class="st95">
+      <g class="st95">
+        <g class="st95">
+          <g class="st95">
+            <text class="st90" transform="translate(695.62 438.01)"><tspan x="0" y="0">surf_esp</tspan></text>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g class="st95">
+    <g class="st95">
+      <g class="st95">
+        <g class="st95">
+          <g class="st95">
+            <text class="st90" transform="translate(797.48 437.98)"><tspan x="0" y="0">surf</tspan></text>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g class="st95">
+    <g class="st95">
+      <g class="st95">
+        <g class="st95">
+          <g class="st95">
+            <text class="st90" transform="translate(866.41 437.98)"><tspan x="0" y="0">pharm</tspan></text>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <path class="st23" style="fill: #b9bec5; stroke: #b9bec5;" d="M336.6,469.74c-4.34,0-7.87-3.52-7.87-7.87s3.52-7.87,7.87-7.87,7.87,3.52,7.87,7.87-3.52,7.87-7.87,7.87Z"/>
+  <path class="st76" style="stroke: #222;" d="M571.6,468.3c-3.55,0-6.44-2.86-6.45-6.42,0-3.55,2.86-6.44,6.42-6.45h.03c3.55,0,6.44,2.86,6.45,6.42,0,3.55-2.86,6.44-6.42,6.45h-.03Z"/>
+  <g class="st95">
+    <g class="st95">
+      <g class="st95">
+        <g class="st95">
+          <g class="st95">
+            <text class="st91" transform="translate(351.6 466.88)"><tspan x="0" y="0">ShEPhERD-score (this work)</tspan></text>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g class="st95">
+    <g class="st95">
+      <g class="st95">
+        <g class="st95">
+          <g class="st95">
+            <text class="st91" transform="translate(586.6 466.88)"><tspan x="0" y="0">external tool</tspan></text>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

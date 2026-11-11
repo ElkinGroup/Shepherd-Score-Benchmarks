@@ -1,0 +1,501 @@
+{
+  "benchmark_set_id": "acfae867a10eb64229ec202e419d2578775458bdc3854e022581e51a248aeae0",
+  "targets": {
+    "AA2AR": {
+      "benchmark_id": "72f7ced1142950af1414e4a3da1759a9c19c065d91e8fa287740f191966c3dbd",
+      "n_conformers": 67049,
+      "n_compounds": 4586,
+      "n_actives": 87
+    },
+    "ABL1": {
+      "benchmark_id": "fdbfde2e31c79ba06a42d1bd2a9b89a66294941c706cf561af55f7e1c025e41c",
+      "n_conformers": 55289,
+      "n_compounds": 3194,
+      "n_actives": 49
+    },
+    "ACES": {
+      "benchmark_id": "e466da1ca5f071204e3545a94cb3e5366d70f402af688dad974ed65a0797e944",
+      "n_conformers": 117007,
+      "n_compounds": 5025,
+      "n_actives": 84
+    },
+    "ADA": {
+      "benchmark_id": "50714b241cc21e7c39049debb56f6a23676b3f3a2c851a38aea296cc65f02ee8",
+      "n_conformers": 60645,
+      "n_compounds": 3361,
+      "n_actives": 62
+    },
+    "ADRB2": {
+      "benchmark_id": "5c790234c0d3ab854fffe596832245b3f0a1017d16fa871b9010ea6ae8227b8d",
+      "n_conformers": 74624,
+      "n_compounds": 3303,
+      "n_actives": 55
+    },
+    "AMPC": {
+      "benchmark_id": "e08e80ba63cce12b242fd3dcd3295b3fe8eb7a7f399fd3781a29285428381f51",
+      "n_conformers": 57057,
+      "n_compounds": 3196,
+      "n_actives": 48
+    },
+    "ANDR": {
+      "benchmark_id": "f6ce68b2498361ec1f85e770ab7cdd15e54de2e249a388f2daf5a46a2a45e9dd",
+      "n_conformers": 72125,
+      "n_compounds": 5040,
+      "n_actives": 94
+    },
+    "CSF1R": {
+      "benchmark_id": "1d8c3ceb586897d74c6727ee380a60e1d2908cce326b80b4e5c4ca3cb37f5fca",
+      "n_conformers": 63543,
+      "n_compounds": 3554,
+      "n_actives": 56
+    },
+    "CXCR4": {
+      "benchmark_id": "e18777423604bf973cc60ae1cd877e6fa01c2e0169c97e934b790d2593e8bc96",
+      "n_conformers": 70232,
+      "n_compounds": 2229,
+      "n_actives": 30
+    },
+    "DEF": {
+      "benchmark_id": "d4ac7968e49a919f4a56ea19dd41f03ebcd2037473c40570f219037a6ca4d1ec",
+      "n_conformers": 44687,
+      "n_compounds": 2749,
+      "n_actives": 53
+    },
+    "DRD4": {
+      "benchmark_id": "9825edf791285296ec7d3f90829ce643768a216c610e3015d4265295d0936581",
+      "n_conformers": 38772,
+      "n_compounds": 1871,
+      "n_actives": 24
+    },
+    "EGFR": {
+      "benchmark_id": "06e3979b96d59363fbb85938a83de569d1e7c9822bb9c727327e2e1db453eb39",
+      "n_conformers": 64152,
+      "n_compounds": 4316,
+      "n_actives": 68
+    },
+    "FA10": {
+      "benchmark_id": "82034a1bf8bb2892135ee22741467eac8446a0f61bb6b109f0ddd00d6d386099",
+      "n_conformers": 41027,
+      "n_compounds": 1321,
+      "n_actives": 23
+    },
+    "FA7": {
+      "benchmark_id": "9cfdde473e8ae822f500fd34085778396cf867cdc7e9522304745ef5e27c4f99",
+      "n_conformers": 72648,
+      "n_compounds": 2180,
+      "n_actives": 32
+    },
+    "FABP4": {
+      "benchmark_id": "ae6f0f63b6052c9d7cdce51d4e57fba22e1180039a0c605e378ba05eecdab3fb",
+      "n_conformers": 48229,
+      "n_compounds": 2292,
+      "n_actives": 44
+    },
+    "FGFR1": {
+      "benchmark_id": "0b5593214b7f9b7875e9d15f01435c26bb79c52b308cd3830fd54d7968f7dfc1",
+      "n_conformers": 72391,
+      "n_compounds": 3593,
+      "n_actives": 45
+    },
+    "FKB1A": {
+      "benchmark_id": "ba00341e2474aca8fac1b8c8d28378efa99f060299f6852d5acd6469163f1009",
+      "n_conformers": 52858,
+      "n_compounds": 2305,
+      "n_actives": 46
+    },
+    "GLCM": {
+      "benchmark_id": "20329ed8dbdd021920d2c8156c9c69f146cbe0bb82877ab87f02d64e91916f67",
+      "n_conformers": 46955,
+      "n_compounds": 2186,
+      "n_actives": 37
+    },
+    "HDAC8": {
+      "benchmark_id": "036ef644db95dbc4ee4f5c0a03113ce725100059d2ba07492a473725fd8869ec",
+      "n_conformers": 74287,
+      "n_compounds": 4175,
+      "n_actives": 75
+    },
+    "HIVPR": {
+      "benchmark_id": "0f360ba623ce8a5ab2ea7481f78a1889b9335e78e90d1b4bf638b54187729822",
+      "n_conformers": 59130,
+      "n_compounds": 3246,
+      "n_actives": 46
+    },
+    "HMDH": {
+      "benchmark_id": "df69703500c04b60ba8fbf8c942d645bbdc59a6557098724233e6e11fbb5e26e",
+      "n_conformers": 41773,
+      "n_compounds": 1937,
+      "n_actives": 38
+    },
+    "HS90A": {
+      "benchmark_id": "bdaa6e4a753bd2a026724048c4066f1eda4d0b81eec6ef92070c58986403b5d6",
+      "n_conformers": 64731,
+      "n_compounds": 3549,
+      "n_actives": 50
+    },
+    "ITAL": {
+      "benchmark_id": "0a892faac1c1e148402edd1b84a02cdf0f33b4f6296a9528a39c243b272e5384",
+      "n_conformers": 68524,
+      "n_compounds": 2213,
+      "n_actives": 40
+    },
+    "KIT": {
+      "benchmark_id": "89d3f470789bbaf052f1bbc7e5dcf552ba233853ed98c85e529fcd5e94890667",
+      "n_conformers": 47499,
+      "n_compounds": 2645,
+      "n_actives": 46
+    },
+    "KITH": {
+      "benchmark_id": "ee4a97e37f090e375f48b4e6f560a0e689e59b0226cf721a705fa43978fbeb0c",
+      "n_conformers": 109756,
+      "n_compounds": 3021,
+      "n_actives": 57
+    },
+    "LCK": {
+      "benchmark_id": "22d447a150a50704a827e1c19ba7de3348f091c71201b54b794dc0c5d28071b1",
+      "n_conformers": 76760,
+      "n_compounds": 4015,
+      "n_actives": 66
+    },
+    "MAPK2": {
+      "benchmark_id": "19059e207c2d2fab6d78adcef6e87e89b6d446cf1c714ad552810d803cb2976c",
+      "n_conformers": 66873,
+      "n_compounds": 3972,
+      "n_actives": 75
+    },
+    "MK01": {
+      "benchmark_id": "ad1f269157dc11bb9dc2a6876bc3b0086452362c29cf9a06220bfb84548c0752",
+      "n_conformers": 39629,
+      "n_compounds": 2293,
+      "n_actives": 43
+    },
+    "MT1": {
+      "benchmark_id": "c858a6d2510c68ee350f8994545382d9ef47fdcbc3fd3691caad4464c3bbbdc2",
+      "n_conformers": 26166,
+      "n_compounds": 2178,
+      "n_actives": 28
+    },
+    "NRAM": {
+      "benchmark_id": "262ce8d544677c0ca19b5b3cfcb99e1d015adb55bda714a2a8e8885ddbbaed1a",
+      "n_conformers": 153924,
+      "n_compounds": 5621,
+      "n_actives": 91
+    },
+    "PARP1": {
+      "benchmark_id": "5ec0c0527f243cb4854f106d69696b15d4b48718745e38c5d789f3bfd29fcbf0",
+      "n_conformers": 90287,
+      "n_compounds": 6211,
+      "n_actives": 95
+    },
+    "PLK1": {
+      "benchmark_id": "f82b7d632ed5a27886c70b81eb4a63b00d2ae409d2f8f6bf4f1434a3b8dcf24f",
+      "n_conformers": 39990,
+      "n_compounds": 2172,
+      "n_actives": 42
+    },
+    "PPARA": {
+      "benchmark_id": "9c6e03a045dc1490eae0761399bffe0afdd32ae8db3adc8d59211e219a9ab2c2",
+      "n_conformers": 55388,
+      "n_compounds": 2229,
+      "n_actives": 48
+    },
+    "PTN1": {
+      "benchmark_id": "66b74d250b296494971f357900aa62c644213007a804cd4f040a93c06c44db2c",
+      "n_conformers": 109886,
+      "n_compounds": 3664,
+      "n_actives": 81
+    },
+    "PUR2": {
+      "benchmark_id": "a84a7a417c22e3f811979014f73072358ea25ab62a0c2dbc46189272c515afb2",
+      "n_conformers": 47144,
+      "n_compounds": 1175,
+      "n_actives": 40
+    },
+    "RENI": {
+      "benchmark_id": "234d2e5a02ff95cc3c5bfc6fed998e6cdd807ac3815021f0dbb95783cecb66d8",
+      "n_conformers": 178695,
+      "n_compounds": 3823,
+      "n_actives": 85
+    },
+    "ROCK1": {
+      "benchmark_id": "05d66ed247016e16ab83dfd17fbcd33c3fdfaeb11334f262dd0a50c2a9c7bb17",
+      "n_conformers": 47872,
+      "n_compounds": 2001,
+      "n_actives": 42
+    },
+    "SRC": {
+      "benchmark_id": "c200c69093eda285d2069857547d3e806f0e96636c4c97452a3a32735307ba58",
+      "n_conformers": 73045,
+      "n_compounds": 4113,
+      "n_actives": 65
+    },
+    "THRB": {
+      "benchmark_id": "5c970d0cd45af4fa28a684baf3fb0e583343f90ddb635eb75902472359d475ea",
+      "n_conformers": 93691,
+      "n_compounds": 2692,
+      "n_actives": 44
+    },
+    "TRY1": {
+      "benchmark_id": "db6a845c4fbb8331ea29f4f6757ada86b364ea187a3dfeb16f18a1411f421f3a",
+      "n_conformers": 112025,
+      "n_compounds": 3205,
+      "n_actives": 57
+    },
+    "TRYB1": {
+      "benchmark_id": "bac57e2eb364465221d5495206d0b516e91f135cb6bc08cf69957c85d3a2c23d",
+      "n_conformers": 77854,
+      "n_compounds": 1935,
+      "n_actives": 38
+    },
+    "UROK": {
+      "benchmark_id": "8c25f469132e7438fd51387038409e9ecc0d60d1994bf22ffe652178fd06a2da",
+      "n_conformers": 112728,
+      "n_compounds": 4569,
+      "n_actives": 73
+    },
+    "XIAP": {
+      "benchmark_id": "98fd635173ff4649cc9e62926bba54b3424b55ff17e267b7658ad1385f8eec52",
+      "n_conformers": 171856,
+      "n_compounds": 3858,
+      "n_actives": 74
+    }
+  },
+  "engine": {
+    "environment": {
+      "fss_commit": "bf4f73b753594771e92ba4d54081a28a0e9c5e00",
+      "fss_source_sha256": "bf8b5d94c0c401f917da93d9d3f8ee4fae4b99ae419869ddeb0cedac8329e849",
+      "rdkit": "2026.03.3",
+      "numpy": "1.26.4",
+      "torch": "2.11.0+cu128",
+      "cuda": "12.8"
+    },
+    "runner_sha256": "7686c552e766e002585effc06905aa188b037983e5707ee7e87b6a31fce36de9",
+    "protocol_sha256": "075be111385c793948cf89b66336065dcf21489e9b9d953413d4f070aa605fd2",
+    "device": "NVIDIA L40S"
+  },
+  "parameters": {
+    "vol": {
+      "no_H": true,
+      "num_repeats": 10,
+      "trans_init": false,
+      "lr": 0.1,
+      "max_num_steps": 30,
+      "num_workers": 1,
+      "use_shmap": true,
+      "num_buckets": 1,
+      "verbose": false,
+      "backend": "triton",
+      "alpha": 0.81,
+      "return_aligned": false
+    },
+    "vol_esp": {
+      "lam": 0.1,
+      "no_H": true,
+      "num_repeats": 16,
+      "trans_init": false,
+      "lr": 0.1,
+      "max_num_steps": 50,
+      "num_workers": 1,
+      "use_shmap": true,
+      "num_buckets": 1,
+      "verbose": false,
+      "backend": "triton",
+      "alpha": 0.81,
+      "return_aligned": false
+    },
+    "surf": {
+      "num_repeats": 8,
+      "trans_init": false,
+      "lr": 0.1,
+      "max_num_steps": 40,
+      "use_jax": true,
+      "use_analytical": true,
+      "num_workers": 1,
+      "use_shmap": false,
+      "verbose": false,
+      "backend": "triton",
+      "return_aligned": false,
+      "alpha": 0.81
+    },
+    "surf_esp": {
+      "lam": 0.3,
+      "num_repeats": 8,
+      "trans_init": false,
+      "lr": 0.1,
+      "max_num_steps": 40,
+      "use_jax": true,
+      "use_analytical": true,
+      "num_workers": 1,
+      "use_shmap": false,
+      "verbose": false,
+      "backend": "triton",
+      "return_aligned": false,
+      "alpha": 0.81
+    },
+    "vol_and_surf_esp": {
+      "lam": 0.001,
+      "probe_radius": 1.0,
+      "esp_weight": 0.5,
+      "num_repeats": 8,
+      "trans_init": false,
+      "lr": 0.1,
+      "max_num_steps": 60,
+      "verbose": false,
+      "backend": "triton",
+      "return_aligned": false,
+      "alpha": 0.81
+    },
+    "pharm": {
+      "similarity": "tanimoto",
+      "extended_points": false,
+      "only_extended": false,
+      "num_repeats": 32,
+      "trans_init": false,
+      "lr": 0.1,
+      "max_num_steps": 50,
+      "num_workers": 1,
+      "use_shmap": true,
+      "num_buckets": 1,
+      "verbose": false,
+      "backend": "triton",
+      "return_aligned": false
+    },
+    "vol_color": {
+      "color_weight": 0.5,
+      "alpha": 0.81,
+      "num_repeats": 16,
+      "trans_init": false,
+      "lr": 0.1,
+      "max_num_steps": 40,
+      "verbose": false,
+      "backend": "triton",
+      "return_aligned": false
+    },
+    "vol_lipo": {
+      "lipo_weight": 0.5,
+      "alpha": 0.81,
+      "lam": 0.1,
+      "num_repeats": 16,
+      "lr": 0.1,
+      "max_num_steps": 50,
+      "verbose": false,
+      "backend": "triton",
+      "return_aligned": false
+    },
+    "vol_pharm": {
+      "color_weight": 0.5,
+      "alpha": 0.81,
+      "num_repeats": 32,
+      "lr": 0.1,
+      "max_num_steps": 50,
+      "verbose": false,
+      "backend": "triton",
+      "return_aligned": false
+    },
+    "vol_atomtype": {
+      "atomtype_weight": 0.5,
+      "alpha": 0.81,
+      "num_repeats": 16,
+      "lr": 0.1,
+      "max_num_steps": 40,
+      "verbose": false,
+      "backend": "triton",
+      "return_aligned": false
+    },
+    "vol_mr": {
+      "mr_weight": 0.5,
+      "alpha": 0.81,
+      "lam": 0.1,
+      "num_repeats": 16,
+      "lr": 0.1,
+      "max_num_steps": 50,
+      "verbose": false,
+      "backend": "triton",
+      "return_aligned": false
+    },
+    "surf_tversky": {
+      "tversky_alpha": 0.95,
+      "tversky_beta": 0.05,
+      "alpha": 0.81,
+      "num_repeats": 8,
+      "lr": 0.1,
+      "max_num_steps": 40,
+      "verbose": false,
+      "backend": "triton",
+      "return_aligned": false
+    },
+    "surf_esp_tversky": {
+      "tversky_alpha": 0.95,
+      "tversky_beta": 0.05,
+      "alpha": 0.81,
+      "lam": 0.3,
+      "num_repeats": 8,
+      "lr": 0.1,
+      "max_num_steps": 40,
+      "verbose": false,
+      "backend": "triton",
+      "return_aligned": false
+    },
+    "vol_and_surf_esp_tversky": {
+      "tversky_alpha": 0.95,
+      "tversky_beta": 0.05,
+      "alpha": 0.81,
+      "lam": 0.001,
+      "probe_radius": 1.0,
+      "esp_weight": 0.5,
+      "num_repeats": 8,
+      "lr": 0.1,
+      "max_num_steps": 60,
+      "verbose": false,
+      "backend": "triton",
+      "return_aligned": false
+    },
+    "vol_color_tversky": {
+      "color_weight": 0.5,
+      "alpha": 0.81,
+      "tversky_alpha": 0.95,
+      "tversky_beta": 0.05,
+      "num_repeats": 16,
+      "lr": 0.1,
+      "max_num_steps": 40,
+      "verbose": false,
+      "backend": "triton",
+      "return_aligned": false
+    },
+    "vol_lipo_tversky": {
+      "lipo_weight": 0.5,
+      "alpha": 0.81,
+      "lam": 0.1,
+      "tversky_alpha": 0.95,
+      "tversky_beta": 0.05,
+      "num_repeats": 16,
+      "lr": 0.1,
+      "max_num_steps": 50,
+      "verbose": false,
+      "backend": "triton",
+      "return_aligned": false
+    },
+    "pharm_tversky": {
+      "extended_points": false,
+      "only_extended": false,
+      "num_repeats": 32,
+      "lr": 0.1,
+      "max_num_steps": 50,
+      "verbose": false,
+      "backend": "triton",
+      "return_aligned": false
+    },
+    "vol_fukui": {
+      "fukui_weight": 0.5,
+      "alpha": 0.81,
+      "lam": 0.1,
+      "num_repeats": 16,
+      "lr": 0.1,
+      "max_num_steps": 50,
+      "verbose": false,
+      "backend": "triton",
+      "return_aligned": false
+    }
+  },
+  "n_conformers": 3158803
+}

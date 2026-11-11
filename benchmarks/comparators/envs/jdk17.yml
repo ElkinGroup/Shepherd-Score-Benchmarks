@@ -1,0 +1,8 @@
+# Java 17 for PheSA (openchemlib 2024.4.2 needs >= 17). install.sh and paths.py look here after
+# PATH and JAVA_HOME; a conda env works in non-interactive shells where `module load` does not.
+#   conda env create -f benchmarks/comparators/envs/jdk17.yml
+name: jdk17
+channels:
+  - conda-forge
+dependencies:
+  - openjdk=17

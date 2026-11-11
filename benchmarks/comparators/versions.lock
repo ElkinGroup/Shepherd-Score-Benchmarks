@@ -1,0 +1,69 @@
+# Comparator software manifest: parsed by paths.py (configparser), rebuilt from by install.sh.
+# sha256 is the checksum of the executed artifact. It is a gate only where enforce_sha = yes; a
+# binary rebuilt from source is not bit-reproducible, so its sha256 is provenance only.
+
+[shaep]
+name          = ShaEP
+version       = 1.4.0
+build_id      = 1.4.0.04f349e55e6deb118159ddaddcb5fa81dc75b4bb 64-bit build Jun 29 2024
+license       = free for academic use; BINARY ONLY, no source released
+citation      = Vainio, Puranen & Johnson, JCIM 2009, 49, 492. doi:10.1021/ci800315d
+obtain        = wayback
+url           = https://web.archive.org/web/20241228132449id_/http://users.abo.fi/mivainio/shaep/Linux_64bit-ShaEP.zip
+archive_sha256 = eeb77a0bccd027d2ea78e62bedb8fbf14e7e6902a3640c1f5365390192072a0a
+sha256        = 6f91f3289a79fbbe79f8a886d7cf766ceafe56786616ba96ebd9f9620a0e23dc
+enforce_sha   = yes
+# Do not commit the ShaEP binary to this repo (academic-use-only licence, no redistribution right).
+
+[align_it]
+name          = Align-it (Pharao)
+version       = 1.0.4
+license       = LGPL-3.0
+citation      = Taminau, Thijs & De Winter, J Mol Graph Model 2008, 27, 161.
+obtain        = git
+repo          = https://github.com/OliverBScott/align-it.git
+commit        = fa734f2795cc1250004cbe199c65785af30ce4c8
+sha256        = d58dd6e563d920def30a9c05f3bff47b5e75b1d9beab613e6a701e8aa6ca9916
+size_bytes    = 124984
+needs         = openbabel3
+# The maintained fork; the original silicos-it/align-it repository is gone.
+
+[openchemlib]
+name          = OpenChemLib (PheSA)
+version       = 2024.4.2
+license       = BSD-3-Clause
+citation      = Wahl & Sander, JCIM 2024, 64, 4. doi:10.1021/acs.jcim.4c00516
+obtain        = maven
+url           = https://repo1.maven.org/maven2/com/actelion/research/openchemlib/2024.4.2/openchemlib-2024.4.2.jar
+sha256        = a949032aff9648317c5ceaad6b63b6485f4960ded850f764ec0edeb17ce0a9b8
+size_bytes    = 8525535
+enforce_sha   = yes
+
+[phesa_screen]
+name          = PheSAScreen (our harness)
+version       = repo
+license       = same as this repo
+obtain        = compile_from_repo
+source        = benchmarks/throughput/aligners/phesa_java/PheSAScreen.java
+needs         = openjdk >= 17
+
+[roshambo2]
+name          = ROSHAMBO2
+version       = v1.0.0-12-g7ff8237
+commit        = 7ff8237c4f21372e8fbfb4e842b1b5eee87a7aeb
+license       = GPL-3.0
+citation      = JCIM 2025. doi:10.1021/acs.jcim.5c01322
+obtain        = git (build from source; CUDA-linked)
+repo          = https://github.com/molecularinformatics/roshambo2
+conda_env     = roshambo2
+
+[espsim]
+name          = ESP-Sim
+version       = 0.0.1 @ 582b39e
+commit        = 582b39e514f5035c08965aa07bde0a123e7bc914
+license       = MIT
+citation      = Bolcato, Heid & Boström, JCIM 2022, 62, 1388. doi:10.1021/acs.jcim.1c01535
+obtain        = pip (git, --no-deps into $PREFIX/python; declares no install_requires)
+repo          = https://github.com/hesther/espsim
+needs         = the fss env's rdkit + numpy + scipy on PYTHONPATH alongside it
+# Deliberately NOT installed into the fss env: that env is pinned for the campaign.

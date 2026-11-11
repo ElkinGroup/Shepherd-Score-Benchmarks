@@ -1,0 +1,30 @@
+{
+  "engine": "/path/to/fast_shepherd_score",
+  "store": "/path/to/enrichment-store",
+  "storage": "benchmark-storage/throughput",
+  "prep_smiles": "benchmark-storage/throughput/enamine_2k.smi",
+  "roshambo_python": "/path/to/conda/envs/roshambo2/bin/python",
+  "triton_configs": null,
+  "source_records": [],
+  "dataset_sources": [
+    {
+      "name": "Enamine REAL",
+      "url": "https://enamine.net/compound-collections/real-compounds/real-database",
+      "version": "2026.01_Enamine_REAL_DB_13.6M.cxsmiles.bz2",
+      "downloaded_utc": null,
+      "note": "Retrieval date not recorded."
+    },
+    {
+      "name": "DUDE-Z property-matched sets and benchmark-grid SMILES",
+      "url": "https://dudez.docking.org/",
+      "downloaded_utc": "2026-09-29",
+      "note": "property_matched/<target>/{ligands,decoys}.tgz and DUDE-Z-benchmark-grids/<target>/{ligands,decoys}.smi for 43 targets."
+    },
+    {
+      "name": "DUDE-Z crystallographic query poses",
+      "url": "https://dudez.docking.org/DOCKING_GRIDS_AND_POSES/",
+      "downloaded_utc": null,
+      "note": "Retrieval date not recorded; frozen query SDF hashes are in benchmarks/dudez/published_inputs.json."
+    }
+  ]
+}
