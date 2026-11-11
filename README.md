@@ -51,19 +51,23 @@ recorded).
 5. Compounds whose features failed persistently (16 decoys) are excluded from every
    method. Result: 2,376 actives, 134,437 decoys, 3,158,803 conformers.
 
-`fetch_dudez.sh` downloads the property-matched archives but writes the truncated
-DB2 SMILES; replace them as in step 2 before `export`. This repository does not
-include that correction step. Then, per target:
-
 ```sh
-bash benchmarks/dudez/fetch_dudez.sh T inputs/dudez/T     # writes actives.smi / decoys.smi ("SMILES id")
-curl -fL https://dudez.docking.org/DOCKING_GRIDS_AND_POSES/T/xtal-lig.pdb -o inputs/dudez/T/xtal-lig.pdb
-python benchmarks/dudez/prepare_queries.py --dudez-dir inputs/dudez                 # once, all targets
-python benchmarks/dudez/benchmark.py export  --target T --dudez-dir inputs/dudez --sdf-dir inputs/sdf --jobs N
-python benchmarks/dudez/benchmark.py prepare --target T --sdf-dir inputs/sdf --store inputs/enrichment --jobs N --exclude-failures
-python benchmarks/dudez/benchmark.py verify  --target T --store inputs/enrichment --published
+TARGETS=$(python -c "import json;print(*json.load(open('benchmarks/dudez/published_benchmark.json'))['targets'])")
+for T in $TARGETS; do bash benchmarks/dudez/fetch_dudez.sh $T inputs/dudez/$T; done   # 11 GB; at most 4 at once
+(cd inputs/dudez && sha256sum -c ../../benchmarks/dudez/download_sha256.txt)          # same files as 2026-09-29?
+python benchmarks/dudez/correct_smiles.py inputs/dudez $TARGETS    # steps 1-2: actives.smi, decoys.smi, corrections.tsv
+python benchmarks/dudez/prepare_queries.py --dudez-dir inputs/dudez  # step 3
+for T in $TARGETS; do                                               # steps 4-5
+  python benchmarks/dudez/benchmark.py export  --target $T --dudez-dir inputs/dudez --sdf-dir inputs/sdf --jobs N
+  python benchmarks/dudez/benchmark.py prepare --target $T --sdf-dir inputs/sdf --store inputs/enrichment --jobs N --exclude-failures
+  python benchmarks/dudez/benchmark.py verify  --target $T --store inputs/enrichment --published
+done
 ```
 
+`correct_smiles.py` applies steps 1-2 and records each SMILES's source in
+`corrections.tsv`; it writes compounds in archive order. That order matches the
+published store except one swapped pair of actives in each of DRD4 and ADRB2,
+which changes no enrichment metric (actives precede decoys either way).
 `verify --published` compares the store with the published input hashes in
 `benchmarks/dudez/published_inputs.json`.
 
@@ -133,7 +137,9 @@ python figures/SI/ef1/make_figure.py       # SI EF1% figure
 `figures/enrichment/fig3.svg` (Figure 2) and `figures/throughput/fig2_alt.svg`
 (Figure 3) are hand-edited layouts: the scripts move only data marks and labels,
 and stop if the target/mode set changes or a value leaves the fixed axes. Keep the
-`<metadata id="throughput-data-layout">` element when editing `fig2_alt.svg`.
+`<metadata id="throughput-data-layout">` element when editing `fig2_alt.svg`, then run
+`python figures/throughput/update_benchmark_panels.py --rebind` to record the edit
+(it stops if a label's text no longer matches its value).
 To preview other results without touching the layouts:
 
 ```sh

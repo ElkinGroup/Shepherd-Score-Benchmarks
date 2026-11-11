@@ -147,15 +147,84 @@ def update(svg, values):
                 suffix = rule["suffix"]
                 divisor = {"":1,"k":1000,"M":1000000}[suffix]
                 label = f"{value/divisor:.{rule['decimals']}f}"+suffix
-            pattern = r'(<text\b[^>]*\bid="'+re.escape(ident)+r'"[^>]*>)(.*?)(</text>)'
+            # The id sits on the <text> or on a group wrapping it.
+            pattern = r'(<(?:text|g)\b[^>]*\bid="'+re.escape(ident)+r'"[^>]*>)(.*?)(</text>)'
             def replace(m):
                 body = re.sub(r'(<tspan\b[^>]*>).*?(</tspan>)',
                               lambda t:t[1]+html.escape(label)+t[2],m[2],flags=re.S)
                 return m[1]+body+m[3]
-            svg = re.sub(pattern, replace, svg, flags=re.S)
+            svg, count = re.subn(pattern, replace, svg, flags=re.S)
+            if count != 1:
+                raise ValueError(f"Missing label text {ident}; review the saved layout")
     if static_signature(svg, ref["rules"]) != ref["static_sha256"]:
         raise ValueError("Update changed static artwork")
     return svg
+
+
+def y_scale(transform):
+    """Vertical scale of an SVG transform list (data marks only move vertically)."""
+    scale = 1.
+    for name, args in re.findall(r"(\w+)\s*\(([^)]*)\)", transform or ""):
+        v = [float(x) for x in re.findall(r"[-+]?(?:\d+\.?\d*|\.\d+)(?:[eE][-+]?\d+)?", args)]
+        if name == "scale":
+            scale *= v[-1]
+        elif name == "matrix" and v[1] == v[2] == 0:
+            scale *= v[3]
+        elif name != "translate":
+            raise ValueError(f"Cannot rebind under a rotated or skewed transform: {transform}")
+    return scale
+
+
+def rebind(svg, values):
+    """Re-anchor the saved data layout to reviewed manual artwork.
+
+    Keeps each mark's measurement key, axis slopes and limits from the saved
+    metadata and re-reads everything a manual edit can change: mark attributes,
+    curve points, stem geometry, label text, transform scales and the static
+    artwork hash. The artwork must already show `values`; review it first.
+    """
+    root = ET.fromstring(svg)
+    meta = root.find(f"{{*}}metadata[@id='{META}']")
+    if meta is None:
+        raise ValueError("No saved layout metadata; copy it from the last committed SVG that has it")
+    ref = json.loads(meta.text)
+    if set(values) != set(ref["values"]):
+        raise ValueError("Measurement set changed; review modes, sizes and layout")
+    parent = {child: node for node in root.iter() for child in node}
+    by_id = {e.get("id"): e for e in root.iter() if e.get("id")}
+    for rule in ref["rules"]:
+        node = by_id[rule["id"]]
+        rule["original"] = {k: node.get(k) for k in rule["mutable"] if k != "text"}
+        scale, up = 1., parent.get(node)
+        while up is not None:
+            scale *= y_scale(up.get("transform"))
+            up = parent.get(up)
+        rule["parent_y_scale"] = scale
+        if "y_scale" in rule:
+            rule["y_scale"] = scale * y_scale(node.get("transform"))
+        if rule["kind"] == "curve":
+            v = [float(x) for x in node.get("points").split()]
+            rule["points"] = [list(p) for p in zip(v[::2], v[1::2])]
+        elif rule["kind"] == "stem":
+            m = re.fullmatch(r"M([-\d.]+),([-\d.]+)v([-\d.]+)", node.get("d"))
+            if m is None:
+                raise ValueError(f"Stem {rule['id']} is not one vertical segment")
+            rule["geometry"] = [float(g) for g in m.groups()]
+        elif rule["kind"] == "label":
+            spans = [e for e in node.iter() if e.tag.endswith("}tspan")]
+            if len(spans) != 1:
+                raise ValueError(f"Label {rule['id']} must hold exactly one tspan")
+            rule["label"] = spans[0].text or ""
+            divisor = {"": 1, "k": 1000, "M": 1000000}[rule["suffix"]]
+            expected = f"{values[rule['key']]/divisor:.{rule['decimals']}f}" + rule["suffix"]
+            if rule["label"] != expected:
+                raise ValueError(f"Label {rule['id']} ({rule['key']}) reads {rule['label']!r} but "
+                                 f"the value formats as {expected!r}; fix the artwork or the data")
+    ref["values"] = dict(values)
+    ref["static_sha256"] = static_signature(svg, ref["rules"])
+    block = json.dumps(ref, separators=(",", ":"))
+    return re.sub(r'(<metadata id="' + META + r'">).*?(</metadata>)',
+                  lambda m: m[1] + block + m[2], svg, count=1, flags=re.S)
 
 
 def main():
@@ -164,10 +233,16 @@ def main():
     ap.add_argument("--prefix", help="write a review copy beside the publication SVG")
     ap.add_argument("--prep", choices=["shared"], default="shared")
     ap.add_argument("--force", action="store_true", help="accepted for compatibility; never redraws")
+    ap.add_argument("--rebind", action="store_true",
+                    help="re-anchor the saved layout to reviewed manual edits; drawing unchanged")
     args = ap.parse_args()
     if args.data_dir:
         results.DATA = args.data_dir.resolve()
     original = SVG.read_text(encoding="utf-8")
+    if args.rebind:
+        SVG.write_text(rebind(original, measurements()), encoding="utf-8")
+        print("Rebound the saved layout to the current artwork")
+        return
     output = update(original, measurements())
     target = HERE/(args.prefix+".svg") if args.prefix else SVG
     target.write_text(output, encoding="utf-8")

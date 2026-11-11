@@ -1,0 +1,2 @@
+*.sh text eol=lf
+benchmarks/dudez/download_sha256.txt text eol=lf
