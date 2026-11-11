@@ -6,8 +6,6 @@ virtual-screening enrichment on 43 DUDE-Z targets, and alignment throughput
 results behind the published figures are in `results/published.zip`.
 
 The published measurements used an AMD EPYC 9474F CPU and NVIDIA L40S GPUs.
-Benchmarks run on Linux; figures also run on Windows. Heavy steps belong in a
-batch-scheduler allocation; the scripts do not submit jobs.
 
 ## Setup
 
@@ -74,8 +72,7 @@ which changes no enrichment metric (actives precede decoys either way).
 ## Throughput inputs (Enamine REAL)
 
 Source: [Enamine REAL](https://enamine.net/compound-collections/real-compounds/real-database)
-release `2026.01_Enamine_REAL_DB_13.6M.cxsmiles.bz2` (retrieval date not recorded);
-a different release gives a different benchmark. Pools are random compound samples
+release `2026.01_Enamine_REAL_DB_13.6M.cxsmiles.bz2`; pools are random compound samples
 (seed 20260813) with exactly 50 conformers per compound.
 
 ```sh
